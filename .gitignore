@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Testing
+.hypothesis/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Data (keep .gitkeep files)
+data/raw/*.json
+data/processed/*.json
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+data/models/*.txt
+!data/models/.gitkeep
+
+# OS
+.DS_Store
+Thumbs.db

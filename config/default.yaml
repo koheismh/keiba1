@@ -1,0 +1,32 @@
+# config/default.yaml
+# 競馬予測システム デフォルト設定
+
+prediction:
+  confidence_threshold: 50      # 信頼度スコア閾値 (0-100)
+  max_bets_per_race: 10         # 1レースあたり最大買い目数
+  min_expected_value: 1.0       # 期待値最低基準
+
+budget:
+  daily_budget: 10000           # 1日の投資予算（円）
+  max_single_bet_ratio: 0.3    # 単一買い目の最大配分比率 (30%)
+
+bet_types:                      # 対象券種
+  - WIN
+  - PLACE
+  - QUINELLA
+  - EXACTA
+  - WIDE
+  - TRIO
+  - TRIFECTA
+
+data:
+  train_ratio: 0.8              # 学習データ比率
+  cross_validation_splits: 5    # 交差検証分割数
+
+model:
+  type: lightgbm
+  params:
+    objective: lambdarank
+    num_leaves: 31
+    learning_rate: 0.05
+    n_estimators: 1000
