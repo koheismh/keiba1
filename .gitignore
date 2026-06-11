@@ -25,7 +25,6 @@ env/
 htmlcov/
 
 # Data (keep .gitkeep files)
-data/raw/*.json
 data/processed/*.json
 !data/raw/.gitkeep
 !data/processed/.gitkeep
