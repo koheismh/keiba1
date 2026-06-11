@@ -35,8 +35,8 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # リクエスト間のスリープ（秒）- サーバーに迷惑をかけないため
-MIN_SLEEP = 2.0
-MAX_SLEEP = 4.0
+MIN_SLEEP = 1.0
+MAX_SLEEP = 1.5
 
 # netkeiba.comの場所コード
 VENUE_CODES = {
@@ -603,10 +603,27 @@ def main():
     
     all_races = []
     total_fetched = 0
+    skipped = 0
+    
+    # 既存データのrace_idを収集（スキップ判定用）
+    existing_race_ids = set()
+    if output_dir.exists():
+        for json_file in output_dir.glob("*.json"):
+            try:
+                with open(json_file, "r", encoding="utf-8") as f:
+                    data = json.load(f)
+                if isinstance(data, list):
+                    for race in data:
+                        if "race_id" in race:
+                            existing_race_ids.add(race["race_id"])
+            except (json.JSONDecodeError, OSError):
+                pass
     
     logger.info(f"スクレイピング開始: {args.year}年 {args.months}月")
     logger.info(f"出力先: {output_dir}")
     logger.info(f"リクエスト間隔: {MIN_SLEEP}〜{MAX_SLEEP}秒")
+    if existing_race_ids:
+        logger.info(f"既存データ: {len(existing_race_ids)}レース（スキップ対象）")
     logger.info("")
     
     for month in args.months:
@@ -626,15 +643,21 @@ def main():
                 logger.info(f"上限 ({args.limit}) に達したため終了")
                 break
             
+            # 既存データはスキップ
+            if race_id in existing_race_ids:
+                skipped += 1
+                continue
+            
             polite_sleep()
             
             race_data = scrape_race(session, race_id)
             if race_data:
                 all_races.append(race_data)
+                existing_race_ids.add(race_id)
                 total_fetched += 1
                 if total_fetched % 10 == 0:
                     logger.info(f"  進捗: {total_fetched}レース取得済み "
-                               f"(現在: {i+1}/{len(race_ids)})")
+                               f"(現在: {i+1}/{len(race_ids)}, スキップ: {skipped})")
                     # 10レースごとに中間保存
                     save_races_by_date(all_races, output_dir)
             else:
@@ -650,6 +673,7 @@ def main():
     logger.info("")
     logger.info(f"=== 完了 ===")
     logger.info(f"取得レース数: {total_fetched}")
+    logger.info(f"スキップ数: {skipped}")
     logger.info(f"保存先: {output_dir}")
 
 
