@@ -1,25 +1,67 @@
-# Horse Race Predictor
+# 競馬レース予測システム
 
-競馬レース予測・回収率最適化アドバイスシステム
+競馬レースの予測を行い、回収率を最優先とした厳選された買い目を提案するアドバイスシステム。自動売買は行わず、ユーザーが手動で購入するための推奨買い目（1レースあたり最大10点）をCLI経由で出力する。
 
-## 概要
+## 技術スタック
 
-本システムは、競馬レースの予測を行い回収率を最優先とした厳選された買い目を提案するPythonベースのアドバイスシステムです。
+- Python 3.11+
+- LightGBM（勾配ブースティング決定木）
+- pandas / numpy / scikit-learn
+- BeautifulSoup4（スクレイピング）
+- Hypothesis（プロパティテスト）
+
+## システム構成
+
+```
+src/
+├── data/           # データ取得・永続化
+├── features/       # 特徴量エンジニアリング
+├── prediction/     # 予測モデル（LightGBM）
+├── evaluation/     # レース評価・見送り判定
+├── betting/        # 買い目選択・資金配分
+├── backtest/       # バックテスト実行
+├── output/         # 出力フォーマッタ・実績記録
+├── cli.py          # CLIエントリーポイント
+└── config.py       # 設定管理
+```
 
 ## セットアップ
 
 ```bash
-pip install -e ".[dev]"
+pip install -e .
 ```
 
 ## 使い方
 
-```bash
-horse-race-predictor --help
-```
-
-## テスト
+### スクレイピング（過去データ収集）
 
 ```bash
-pytest tests/ -v --cov=src
+python3 scripts/scrape_historical.py --year 2024 --months 1 2 3
 ```
+
+### バックテスト実行
+
+```bash
+python3 scripts/run_backtest.py --config config/backtest.yaml
+```
+
+### テスト実行
+
+```bash
+python3 -m pytest
+```
+
+## 収集済みデータ
+
+| 年 | ステータス |
+|----|-----------|
+| 2024 | ✅ 収集済み（1月のみ、200レース） |
+
+## Phase構成
+
+- **Phase 1（バックテスト）**: 過去のレースデータを用いて予測ロジックの開発・検証・最適化を行い、回収率がプラスとなるモデルを構築する
+- **Phase 2（本番運用）**: Phase 1で構築した予測モデルを使い、レース当日にリアルタイムで情報を取得し買い目を出力する
+
+## ライセンス
+
+Private
