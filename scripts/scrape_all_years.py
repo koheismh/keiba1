@@ -51,8 +51,8 @@ def main():
         "--years",
         type=int,
         nargs="+",
-        default=list(range(2015, 2025)),
-        help="対象年（デフォルト: 2015-2024）",
+        default=list(range(2015, 2026)),
+        help="対象年（デフォルト: 2015-2025）",
     )
     parser.add_argument(
         "--workers",

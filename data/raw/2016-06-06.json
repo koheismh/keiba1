@@ -1,0 +1,7905 @@
+[
+  {
+    "race_id": "201635060601",
+    "race_name": "3歳C2三組",
+    "race_date": "2016-06-06",
+    "post_time": "11:30",
+    "venue": "不明",
+    "course_type": "ダート",
+    "distance": 1200,
+    "track_condition": "良",
+    "weather": "晴",
+    "entries": [
+      {
+        "horse_name": "ニンキモノ",
+        "jockey_name": "坂口裕一",
+        "gate_number": 6,
+        "horse_number": 7,
+        "weight": 470,
+        "weight_change": 8,
+        "win_odds": 2.8
+      },
+      {
+        "horse_name": "アップセットウィン",
+        "jockey_name": "山本聡哉",
+        "gate_number": 7,
+        "horse_number": 9,
+        "weight": 446,
+        "weight_change": -8,
+        "win_odds": 3.1
+      },
+      {
+        "horse_name": "サフランナイト",
+        "jockey_name": "陶文峰",
+        "gate_number": 1,
+        "horse_number": 1,
+        "weight": 442,
+        "weight_change": 6,
+        "win_odds": 2.6
+      },
+      {
+        "horse_name": "クレッシェンド",
+        "jockey_name": "村上忍",
+        "gate_number": 6,
+        "horse_number": 6,
+        "weight": 412,
+        "weight_change": 6,
+        "win_odds": 76.9
+      },
+      {
+        "horse_name": "レオソフィア",
+        "jockey_name": "阿部英俊",
+        "gate_number": 8,
+        "horse_number": 11,
+        "weight": 444,
+        "weight_change": 0,
+        "win_odds": 26.4
+      },
+      {
+        "horse_name": "ツムギ",
+        "jockey_name": "山本政聡",
+        "gate_number": 7,
+        "horse_number": 8,
+        "weight": 432,
+        "weight_change": 16,
+        "win_odds": 10.5
+      },
+      {
+        "horse_name": "ハタノコンフリクト",
+        "jockey_name": "大坪慎",
+        "gate_number": 8,
+        "horse_number": 10,
+        "weight": 473,
+        "weight_change": 6,
+        "win_odds": 158.5
+      },
+      {
+        "horse_name": "ウインラングロワ",
+        "jockey_name": "木村直輝",
+        "gate_number": 3,
+        "horse_number": 3,
+        "weight": 432,
+        "weight_change": 2,
+        "win_odds": 158.5
+      },
+      {
+        "horse_name": "ナチュラルウーマン",
+        "jockey_name": "鈴木祐",
+        "gate_number": 5,
+        "horse_number": 5,
+        "weight": 480,
+        "weight_change": -2,
+        "win_odds": 60.2
+      },
+      {
+        "horse_name": "コスモラヴィータ",
+        "jockey_name": "斉藤雄一",
+        "gate_number": 4,
+        "horse_number": 4,
+        "weight": 432,
+        "weight_change": -3,
+        "win_odds": 155.3
+      },
+      {
+        "horse_name": "ラブフレイム",
+        "jockey_name": "高松亮",
+        "gate_number": 2,
+        "horse_number": 2,
+        "weight": 458,
+        "weight_change": 2,
+        "win_odds": 47.6
+      }
+    ],
+    "results": [
+      {
+        "horse_number": 7,
+        "finish_position": 1
+      },
+      {
+        "horse_number": 9,
+        "finish_position": 2
+      },
+      {
+        "horse_number": 1,
+        "finish_position": 3
+      },
+      {
+        "horse_number": 6,
+        "finish_position": 4
+      },
+      {
+        "horse_number": 11,
+        "finish_position": 5
+      },
+      {
+        "horse_number": 8,
+        "finish_position": 6
+      },
+      {
+        "horse_number": 10,
+        "finish_position": 7
+      },
+      {
+        "horse_number": 3,
+        "finish_position": 8
+      },
+      {
+        "horse_number": 5,
+        "finish_position": 9
+      },
+      {
+        "horse_number": 4,
+        "finish_position": 10
+      },
+      {
+        "horse_number": 2,
+        "finish_position": 11
+      }
+    ],
+    "payouts": [
+      {
+        "bet_type": "単勝",
+        "combination": [
+          7
+        ],
+        "payout": 280
+      },
+      {
+        "bet_type": "複勝",
+        "combination": [
+          7
+        ],
+        "payout": 120
+      },
+      {
+        "bet_type": "複勝",
+        "combination": [
+          9
+        ],
+        "payout": 120
+      },
+      {
+        "bet_type": "複勝",
+        "combination": [
+          1
+        ],
+        "payout": 130
+      },
+      {
+        "bet_type": "馬連",
+        "combination": [
+          7,
+          9
+        ],
+        "payout": 520
+      },
+      {
+        "bet_type": "ワイド",
+        "combination": [
+          7,
+          9
+        ],
+        "payout": 200
+      },
+      {
+        "bet_type": "ワイド",
+        "combination": [
+          1,
+          7
+        ],
+        "payout": 220
+      },
+      {
+        "bet_type": "ワイド",
+        "combination": [
+          1,
+          9
+        ],
+        "payout": 200
+      },
+      {
+        "bet_type": "馬単",
+        "combination": [
+          7,
+          9
+        ],
+        "payout": 1060
+      },
+      {
+        "bet_type": "三連複",
+        "combination": [
+          1,
+          7,
+          9
+        ],
+        "payout": 480
+      },
+      {
+        "bet_type": "三連単",
+        "combination": [
+          7,
+          9,
+          1
+        ],
+        "payout": 1900
+      }
+    ]
+  },
+  {
+    "race_id": "201635060602",
+    "race_name": "3歳C2二組",
+    "race_date": "2016-06-06",
+    "post_time": "12:00",
+    "venue": "不明",
+    "course_type": "ダート",
+    "distance": 1200,
+    "track_condition": "良",
+    "weather": "晴",
+    "entries": [
+      {
+        "horse_name": "リフリジェレーター",
+        "jockey_name": "山本政聡",
+        "gate_number": 5,
+        "horse_number": 5,
+        "weight": 505,
+        "weight_change": -2,
+        "win_odds": 1.1
+      },
+      {
+        "horse_name": "プレシャス",
+        "jockey_name": "斉藤雄一",
+        "gate_number": 8,
+        "horse_number": 8,
+        "weight": 440,
+        "weight_change": -15,
+        "win_odds": 18.8
+      },
+      {
+        "horse_name": "パキラ",
+        "jockey_name": "阿部英俊",
+        "gate_number": 4,
+        "horse_number": 4,
+        "weight": 412,
+        "weight_change": 10,
+        "win_odds": 14.0
+      },
+      {
+        "horse_name": "シャイニーストーム",
+        "jockey_name": "関本淳",
+        "gate_number": 2,
+        "horse_number": 2,
+        "weight": 466,
+        "weight_change": 2,
+        "win_odds": 6.1
+      },
+      {
+        "horse_name": "イエスウチダ",
+        "jockey_name": "村上忍",
+        "gate_number": 8,
+        "horse_number": 9,
+        "weight": 462,
+        "weight_change": 6,
+        "win_odds": 27.4
+      },
+      {
+        "horse_name": "カチノハナ",
+        "jockey_name": "木村暁",
+        "gate_number": 7,
+        "horse_number": 7,
+        "weight": 414,
+        "weight_change": -2,
+        "win_odds": 140.1
+      },
+      {
+        "horse_name": "セルリアンシリウス",
+        "jockey_name": "菅原辰徳",
+        "gate_number": 1,
+        "horse_number": 1,
+        "weight": 479,
+        "weight_change": 7,
+        "win_odds": 166.4
+      },
+      {
+        "horse_name": "ファッションボーイ",
+        "jockey_name": "鈴木祐",
+        "gate_number": 3,
+        "horse_number": 3,
+        "weight": 490,
+        "weight_change": 1,
+        "win_odds": 163.0
+      },
+      {
+        "horse_name": "ヴォートルヴォイス",
+        "jockey_name": "高松亮",
+        "gate_number": 6,
+        "horse_number": 6,
+        "weight": 442,
+        "weight_change": 2,
+        "win_odds": 110.9
+      }
+    ],
+    "results": [
+      {
+        "horse_number": 5,
+        "finish_position": 1
+      },
+      {
+        "horse_number": 8,
+        "finish_position": 2
+      },
+      {
+        "horse_number": 4,
+        "finish_position": 3
+      },
+      {
+        "horse_number": 2,
+        "finish_position": 4
+      },
+      {
+        "horse_number": 9,
+        "finish_position": 5
+      },
+      {
+        "horse_number": 7,
+        "finish_position": 6
+      },
+      {
+        "horse_number": 1,
+        "finish_position": 7
+      },
+      {
+        "horse_number": 3,
+        "finish_position": 8
+      },
+      {
+        "horse_number": 6,
+        "finish_position": 9
+      }
+    ],
+    "payouts": [
+      {
+        "bet_type": "単勝",
+        "combination": [
+          5
+        ],
+        "payout": 110
+      },
+      {
+        "bet_type": "複勝",
+        "combination": [
+          5
+        ],
+        "payout": 100
+      },
+      {
+        "bet_type": "複勝",
+        "combination": [
+          8
+        ],
+        "payout": 170
+      },
+      {
+        "bet_type": "複勝",
+        "combination": [
+          4
+        ],
+        "payout": 150
+      },
+      {
+        "bet_type": "馬連",
+        "combination": [
+          5,
+          8
+        ],
+        "payout": 520
+      },
+      {
+        "bet_type": "ワイド",
+        "combination": [
+          5,
+          8
+        ],
+        "payout": 220
+      },
+      {
+        "bet_type": "ワイド",
+        "combination": [
+          4,
+          5
+        ],
+        "payout": 180
+      },
+      {
+        "bet_type": "ワイド",
+        "combination": [
+          4,
+          8
+        ],
+        "payout": 1010
+      },
+      {
+        "bet_type": "馬単",
+        "combination": [
+          5,
+          8
+        ],
+        "payout": 550
+      },
+      {
+        "bet_type": "三連複",
+        "combination": [
+          4,
+          5,
+          8
+        ],
+        "payout": 1420
+      },
+      {
+        "bet_type": "三連単",
+        "combination": [
+          5,
+          8,
+          4
+        ],
+        "payout": 2890
+      }
+    ]
+  },
+  {
+    "race_id": "201635060603",
+    "race_name": "C2六組",
+    "race_date": "2016-06-06",
+    "post_time": "12:30",
+    "venue": "不明",
+    "course_type": "ダート",
+    "distance": 1400,
+    "track_condition": "良",
+    "weather": "晴",
+    "entries": [
+      {
+        "horse_name": "ツキノピラミッド",
+        "jockey_name": "小林凌",
+        "gate_number": 7,
+        "horse_number": 7,
+        "weight": 442,
+        "weight_change": -4,
+        "win_odds": 4.8
+      },
+      {
+        "horse_name": "インピース",
+        "jockey_name": "山本政聡",
+        "gate_number": 2,
+        "horse_number": 2,
+        "weight": 491,
+        "weight_change": -5,
+        "win_odds": 24.0
+      },
+      {
+        "horse_name": "ミツアキジュニアー",
+        "jockey_name": "高橋悠里",
+        "gate_number": 4,
+        "horse_number": 4,
+        "weight": 482,
+        "weight_change": 5,
+        "win_odds": 114.4
+      },
+      {
+        "horse_name": "シルクプラズマ",
+        "jockey_name": "木村暁",
+        "gate_number": 3,
+        "horse_number": 3,
+        "weight": 482,
+        "weight_change": -1,
+        "win_odds": 1.5
+      },
+      {
+        "horse_name": "フレッシュメイト",
+        "jockey_name": "坂口裕一",
+        "gate_number": 1,
+        "horse_number": 1,
+        "weight": 506,
+        "weight_change": 2,
+        "win_odds": 6.1
+      },
+      {
+        "horse_name": "コスモフラッグ",
+        "jockey_name": "山本聡哉",
+        "gate_number": 6,
+        "horse_number": 6,
+        "weight": 472,
+        "weight_change": -3,
+        "win_odds": 5.5
+      }
+    ],
+    "results": [
+      {
+        "horse_number": 7,
+        "finish_position": 1
+      },
+      {
+        "horse_number": 2,
+        "finish_position": 2
+      },
+      {
+        "horse_number": 4,
+        "finish_position": 3
+      },
+      {
+        "horse_number": 3,
+        "finish_position": 4
+      },
+      {
+        "horse_number": 1,
+        "finish_position": 5
+      },
+      {
+        "horse_number": 6,
+        "finish_position": 6
+      }
+    ],
+    "payouts": [
+      {
+        "bet_type": "単勝",
+        "combination": [
+          7
+        ],
+        "payout": 480
+      },
+      {
+        "bet_type": "複勝",
+        "combination": [
+          7
+        ],
+        "payout": 210
+      },
+      {
+        "bet_type": "複勝",
+        "combination": [
+          2
+        ],
+        "payout": 730
+      },
+      {
+        "bet_type": "馬連",
+        "combination": [
+          2,
+          7
+        ],
+        "payout": 4030
+      },
+      {
+        "bet_type": "ワイド",
+        "combination": [
+          2,
+          7
+        ],
+        "payout": 840
+      },
+      {
+        "bet_type": "ワイド",
+        "combination": [
+          4,
+          7
+        ],
+        "payout": 2740
+      },
+      {
+        "bet_type": "ワイド",
+        "combination": [
+          2,
+          4
+        ],
+        "payout": 2770
+      },
+      {
+        "bet_type": "馬単",
+        "combination": [
+          7,
+          2
+        ],
+        "payout": 5940
+      },
+      {
+        "bet_type": "三連複",
+        "combination": [
+          2,
+          4,
+          7
+        ],
+        "payout": 13010
+      },
+      {
+        "bet_type": "三連単",
+        "combination": [
+          7,
+          2,
+          4
+        ],
+        "payout": 98920
+      }
+    ]
+  },
+  {
+    "race_id": "201635060604",
+    "race_name": "C2五組",
+    "race_date": "2016-06-06",
+    "post_time": "13:05",
+    "venue": "不明",
+    "course_type": "ダート",
+    "distance": 1400,
+    "track_condition": "良",
+    "weather": "晴",
+    "entries": [
+      {
+        "horse_name": "トーホクフェアリー",
+        "jockey_name": "関本淳",
+        "gate_number": 3,
+        "horse_number": 3,
+        "weight": 417,
+        "weight_change": 4,
+        "win_odds": 3.0
+      },
+      {
+        "horse_name": "ヒライズミナンバー",
+        "jockey_name": "高橋悠里",
+        "gate_number": 4,
+        "horse_number": 4,
+        "weight": 477,
+        "weight_change": 1,
+        "win_odds": 7.2
+      },
+      {
+        "horse_name": "ラブウィスパー",
+        "jockey_name": "斉藤雄一",
+        "gate_number": 2,
+        "horse_number": 2,
+        "weight": 452,
+        "weight_change": 4,
+        "win_odds": 87.6
+      },
+      {
+        "horse_name": "クリノプリムラ",
+        "jockey_name": "阿部英俊",
+        "gate_number": 1,
+        "horse_number": 1,
+        "weight": 469,
+        "weight_change": 1,
+        "win_odds": 1.6
+      },
+      {
+        "horse_name": "ローレルカンタータ",
+        "jockey_name": "村上忍",
+        "gate_number": 5,
+        "horse_number": 5,
+        "weight": 500,
+        "weight_change": 0,
+        "win_odds": 13.1
+      },
+      {
+        "horse_name": "オンダム",
+        "jockey_name": "山本聡哉",
+        "gate_number": 7,
+        "horse_number": 7,
+        "weight": 457,
+        "weight_change": -4,
+        "win_odds": 9.7
+      },
+      {
+        "horse_name": "カーリーネイト",
+        "jockey_name": "大坪慎",
+        "gate_number": 6,
+        "horse_number": 6,
+        "weight": 463,
+        "weight_change": 4,
+        "win_odds": 108.0
+      }
+    ],
+    "results": [
+      {
+        "horse_number": 3,
+        "finish_position": 1
+      },
+      {
+        "horse_number": 4,
+        "finish_position": 2
+      },
+      {
+        "horse_number": 2,
+        "finish_position": 3
+      },
+      {
+        "horse_number": 1,
+        "finish_position": 4
+      },
+      {
+        "horse_number": 5,
+        "finish_position": 5
+      },
+      {
+        "horse_number": 7,
+        "finish_position": 6
+      },
+      {
+        "horse_number": 6,
+        "finish_position": 7
+      }
+    ],
+    "payouts": [
+      {
+        "bet_type": "単勝",
+        "combination": [
+          3
+        ],
+        "payout": 300
+      },
+      {
+        "bet_type": "複勝",
+        "combination": [
+          3
+        ],
+        "payout": 130
+      },
+      {
+        "bet_type": "複勝",
+        "combination": [
+          4
+        ],
+        "payout": 200
+      },
+      {
+        "bet_type": "馬連",
+        "combination": [
+          3,
+          4
+        ],
+        "payout": 830
+      },
+      {
+        "bet_type": "ワイド",
+        "combination": [
+          3,
+          4
+        ],
+        "payout": 340
+      },
+      {
+        "bet_type": "ワイド",
+        "combination": [
+          2,
+          3
+        ],
+        "payout": 2010
+      },
+      {
+        "bet_type": "ワイド",
+        "combination": [
+          2,
+          4
+        ],
+        "payout": 2840
+      },
+      {
+        "bet_type": "馬単",
+        "combination": [
+          3,
+          4
+        ],
+        "payout": 1480
+      },
+      {
+        "bet_type": "三連複",
+        "combination": [
+          2,
+          3,
+          4
+        ],
+        "payout": 7740
+      },
+      {
+        "bet_type": "三連単",
+        "combination": [
+          3,
+          4,
+          2
+        ],
+        "payout": 25930
+      }
+    ]
+  },
+  {
+    "race_id": "201635060605",
+    "race_name": "C2四組",
+    "race_date": "2016-06-06",
+    "post_time": "13:40",
+    "venue": "不明",
+    "course_type": "ダート",
+    "distance": 1400,
+    "track_condition": "良",
+    "weather": "晴",
+    "entries": [
+      {
+        "horse_name": "ディープチル",
+        "jockey_name": "関本淳",
+        "gate_number": 6,
+        "horse_number": 6,
+        "weight": 430,
+        "weight_change": -9,
+        "win_odds": 10.1
+      },
+      {
+        "horse_name": "ランデックハーツ",
+        "jockey_name": "村上忍",
+        "gate_number": 4,
+        "horse_number": 4,
+        "weight": 510,
+        "weight_change": 0,
+        "win_odds": 1.7
+      },
+      {
+        "horse_name": "ディアブレイズン",
+        "jockey_name": "坂口裕一",
+        "gate_number": 1,
+        "horse_number": 1,
+        "weight": 482,
+        "weight_change": -2,
+        "win_odds": 3.5
+      },
+      {
+        "horse_name": "デルマボサツ",
+        "jockey_name": "陶文峰",
+        "gate_number": 7,
+        "horse_number": 7,
+        "weight": 472,
+        "weight_change": 2,
+        "win_odds": 4.0
+      },
+      {
+        "horse_name": "ヤマニントルシュ",
+        "jockey_name": "菅原俊吏",
+        "gate_number": 2,
+        "horse_number": 2,
+        "weight": 429,
+        "weight_change": 2,
+        "win_odds": 26.2
+      },
+      {
+        "horse_name": "リュウノヒカル",
+        "jockey_name": "木村直輝",
+        "gate_number": 3,
+        "horse_number": 3,
+        "weight": 430,
+        "weight_change": 1,
+        "win_odds": 142.7
+      },
+      {
+        "horse_name": "ヤマニンラピエール",
+        "jockey_name": "鈴木麻優",
+        "gate_number": 5,
+        "horse_number": 5,
+        "weight": 466,
+        "weight_change": 3,
+        "win_odds": 116.7
+      }
+    ],
+    "results": [
+      {
+        "horse_number": 6,
+        "finish_position": 1
+      },
+      {
+        "horse_number": 4,
+        "finish_position": 2
+      },
+      {
+        "horse_number": 1,
+        "finish_position": 3
+      },
+      {
+        "horse_number": 7,
+        "finish_position": 4
+      },
+      {
+        "horse_number": 2,
+        "finish_position": 5
+      },
+      {
+        "horse_number": 3,
+        "finish_position": 6
+      },
+      {
+        "horse_number": 5,
+        "finish_position": 7
+      }
+    ],
+    "payouts": [
+      {
+        "bet_type": "単勝",
+        "combination": [
+          6
+        ],
+        "payout": 1010
+      },
+      {
+        "bet_type": "複勝",
+        "combination": [
+          6
+        ],
+        "payout": 350
+      },
+      {
+        "bet_type": "複勝",
+        "combination": [
+          4
+        ],
+        "payout": 150
+      },
+      {
+        "bet_type": "馬連",
+        "combination": [
+          4,
+          6
+        ],
+        "payout": 830
+      },
+      {
+        "bet_type": "ワイド",
+        "combination": [
+          4,
+          6
+        ],
+        "payout": 260
+      },
+      {
+        "bet_type": "ワイド",
+        "combination": [
+          1,
+          6
+        ],
+        "payout": 300
+      },
+      {
+        "bet_type": "ワイド",
+        "combination": [
+          1,
+          4
+        ],
+        "payout": 200
+      },
+      {
+        "bet_type": "馬単",
+        "combination": [
+          6,
+          4
+        ],
+        "payout": 3220
+      },
+      {
+        "bet_type": "三連複",
+        "combination": [
+          1,
+          4,
+          6
+        ],
+        "payout": 580
+      },
+      {
+        "bet_type": "三連単",
+        "combination": [
+          6,
+          4,
+          1
+        ],
+        "payout": 7400
+      }
+    ]
+  },
+  {
+    "race_id": "201635060606",
+    "race_name": "C2三組",
+    "race_date": "2016-06-06",
+    "post_time": "14:15",
+    "venue": "不明",
+    "course_type": "ダート",
+    "distance": 1400,
+    "track_condition": "良",
+    "weather": "晴",
+    "entries": [
+      {
+        "horse_name": "パルミエ",
+        "jockey_name": "山本政聡",
+        "gate_number": 5,
+        "horse_number": 5,
+        "weight": 472,
+        "weight_change": -6,
+        "win_odds": 1.5
+      },
+      {
+        "horse_name": "ダイワスペシャル",
+        "jockey_name": "坂口裕一",
+        "gate_number": 2,
+        "horse_number": 2,
+        "weight": 495,
+        "weight_change": 2,
+        "win_odds": 3.1
+      },
+      {
+        "horse_name": "オーバートゥループ",
+        "jockey_name": "高松亮",
+        "gate_number": 3,
+        "horse_number": 3,
+        "weight": 479,
+        "weight_change": -10,
+        "win_odds": 11.0
+      },
+      {
+        "horse_name": "リュウジンオー",
+        "jockey_name": "山本聡哉",
+        "gate_number": 4,
+        "horse_number": 4,
+        "weight": 455,
+        "weight_change": -1,
+        "win_odds": 40.6
+      },
+      {
+        "horse_name": "エーシンプロースト",
+        "jockey_name": "鈴木祐",
+        "gate_number": 1,
+        "horse_number": 1,
+        "weight": 446,
+        "weight_change": 4,
+        "win_odds": 7.0
+      },
+      {
+        "horse_name": "ムスカバード",
+        "jockey_name": "菅原辰徳",
+        "gate_number": 7,
+        "horse_number": 7,
+        "weight": 452,
+        "weight_change": -1,
+        "win_odds": 37.5
+      },
+      {
+        "horse_name": "ランデックオペラ",
+        "jockey_name": "斉藤雄一",
+        "gate_number": 6,
+        "horse_number": 6,
+        "weight": 493,
+        "weight_change": -8,
+        "win_odds": 52.2
+      }
+    ],
+    "results": [
+      {
+        "horse_number": 5,
+        "finish_position": 1
+      },
+      {
+        "horse_number": 2,
+        "finish_position": 2
+      },
+      {
+        "horse_number": 3,
+        "finish_position": 3
+      },
+      {
+        "horse_number": 4,
+        "finish_position": 4
+      },
+      {
+        "horse_number": 1,
+        "finish_position": 5
+      },
+      {
+        "horse_number": 7,
+        "finish_position": 6
+      },
+      {
+        "horse_number": 6,
+        "finish_position": 7
+      }
+    ],
+    "payouts": [
+      {
+        "bet_type": "単勝",
+        "combination": [
+          5
+        ],
+        "payout": 150
+      },
+      {
+        "bet_type": "複勝",
+        "combination": [
+          5
+        ],
+        "payout": 110
+      },
+      {
+        "bet_type": "複勝",
+        "combination": [
+          2
+        ],
+        "payout": 130
+      },
+      {
+        "bet_type": "馬連",
+        "combination": [
+          2,
+          5
+        ],
+        "payout": 210
+      },
+      {
+        "bet_type": "ワイド",
+        "combination": [
+          2,
+          5
+        ],
+        "payout": 130
+      },
+      {
+        "bet_type": "ワイド",
+        "combination": [
+          3,
+          5
+        ],
+        "payout": 240
+      },
+      {
+        "bet_type": "ワイド",
+        "combination": [
+          2,
+          3
+        ],
+        "payout": 280
+      },
+      {
+        "bet_type": "馬単",
+        "combination": [
+          5,
+          2
+        ],
+        "payout": 340
+      },
+      {
+        "bet_type": "三連複",
+        "combination": [
+          2,
+          3,
+          5
+        ],
+        "payout": 520
+      },
+      {
+        "bet_type": "三連単",
+        "combination": [
+          5,
+          2,
+          3
+        ],
+        "payout": 1190
+      }
+    ]
+  },
+  {
+    "race_id": "201635060607",
+    "race_name": "C2二組",
+    "race_date": "2016-06-06",
+    "post_time": "14:50",
+    "venue": "不明",
+    "course_type": "ダート",
+    "distance": 1400,
+    "track_condition": "良",
+    "weather": "晴",
+    "entries": [
+      {
+        "horse_name": "ブラックメイプル",
+        "jockey_name": "木村暁",
+        "gate_number": 1,
+        "horse_number": 1,
+        "weight": 513,
+        "weight_change": 7,
+        "win_odds": 3.5
+      },
+      {
+        "horse_name": "クンツァイト",
+        "jockey_name": "南郷家全",
+        "gate_number": 6,
+        "horse_number": 6,
+        "weight": 482,
+        "weight_change": 3,
+        "win_odds": 98.0
+      },
+      {
+        "horse_name": "ラフィナート",
+        "jockey_name": "関本淳",
+        "gate_number": 8,
+        "horse_number": 8,
+        "weight": 456,
+        "weight_change": -5,
+        "win_odds": 7.1
+      },
+      {
+        "horse_name": "グロスヴァーグ",
+        "jockey_name": "小林凌",
+        "gate_number": 5,
+        "horse_number": 5,
+        "weight": 437,
+        "weight_change": 2,
+        "win_odds": 14.4
+      },
+      {
+        "horse_name": "コスモワッショイ",
+        "jockey_name": "高橋悠里",
+        "gate_number": 3,
+        "horse_number": 3,
+        "weight": 439,
+        "weight_change": 0,
+        "win_odds": 2.2
+      },
+      {
+        "horse_name": "ディアエミネンス",
+        "jockey_name": "山本聡哉",
+        "gate_number": 4,
+        "horse_number": 4,
+        "weight": 427,
+        "weight_change": -5,
+        "win_odds": 4.9
+      },
+      {
+        "horse_name": "オテロ",
+        "jockey_name": "斉藤雄一",
+        "gate_number": 2,
+        "horse_number": 2,
+        "weight": 502,
+        "weight_change": 3,
+        "win_odds": 18.6
+      },
+      {
+        "horse_name": "ダンストゥナイト",
+        "jockey_name": "村上忍",
+        "gate_number": 7,
+        "horse_number": 7,
+        "weight": 458,
+        "weight_change": -4,
+        "win_odds": 16.3
+      }
+    ],
+    "results": [
+      {
+        "horse_number": 1,
+        "finish_position": 1
+      },
+      {
+        "horse_number": 6,
+        "finish_position": 2
+      },
+      {
+        "horse_number": 8,
+        "finish_position": 3
+      },
+      {
+        "horse_number": 5,
+        "finish_position": 4
+      },
+      {
+        "horse_number": 3,
+        "finish_position": 5
+      },
+      {
+        "horse_number": 4,
+        "finish_position": 6
+      },
+      {
+        "horse_number": 2,
+        "finish_position": 7
+      },
+      {
+        "horse_number": 7,
+        "finish_position": 8
+      }
+    ],
+    "payouts": [
+      {
+        "bet_type": "単勝",
+        "combination": [
+          1
+        ],
+        "payout": 350
+      },
+      {
+        "bet_type": "複勝",
+        "combination": [
+          1
+        ],
+        "payout": 190
+      },
+      {
+        "bet_type": "複勝",
+        "combination": [
+          6
+        ],
+        "payout": 1460
+      },
+      {
+        "bet_type": "複勝",
+        "combination": [
+          8
+        ],
+        "payout": 210
+      },
+      {
+        "bet_type": "馬連",
+        "combination": [
+          1,
+          6
+        ],
+        "payout": 15950
+      },
+      {
+        "bet_type": "ワイド",
+        "combination": [
+          1,
+          6
+        ],
+        "payout": 4910
+      },
+      {
+        "bet_type": "ワイド",
+        "combination": [
+          1,
+          8
+        ],
+        "payout": 520
+      },
+      {
+        "bet_type": "ワイド",
+        "combination": [
+          6,
+          8
+        ],
+        "payout": 4910
+      },
+      {
+        "bet_type": "馬単",
+        "combination": [
+          1,
+          6
+        ],
+        "payout": 25050
+      },
+      {
+        "bet_type": "三連複",
+        "combination": [
+          1,
+          6,
+          8
+        ],
+        "payout": 25650
+      },
+      {
+        "bet_type": "三連単",
+        "combination": [
+          1,
+          6,
+          8
+        ],
+        "payout": 126760
+      }
+    ]
+  },
+  {
+    "race_id": "201635060608",
+    "race_name": "ヘイズスターバースト(C2)",
+    "race_date": "2016-06-06",
+    "post_time": "15:30",
+    "venue": "不明",
+    "course_type": "ダート",
+    "distance": 1400,
+    "track_condition": "良",
+    "weather": "晴",
+    "entries": [
+      {
+        "horse_name": "マイネヴァイザー",
+        "jockey_name": "南郷家全",
+        "gate_number": 8,
+        "horse_number": 8,
+        "weight": 432,
+        "weight_change": -2,
+        "win_odds": 7.4
+      },
+      {
+        "horse_name": "マイネルハーシェル",
+        "jockey_name": "村上忍",
+        "gate_number": 5,
+        "horse_number": 5,
+        "weight": 497,
+        "weight_change": 1,
+        "win_odds": 1.9
+      },
+      {
+        "horse_name": "ゼンノブショウ",
+        "jockey_name": "坂口裕一",
+        "gate_number": 7,
+        "horse_number": 7,
+        "weight": 440,
+        "weight_change": 2,
+        "win_odds": 5.8
+      },
+      {
+        "horse_name": "フォールスクリーク",
+        "jockey_name": "菅原辰徳",
+        "gate_number": 6,
+        "horse_number": 6,
+        "weight": 472,
+        "weight_change": -3,
+        "win_odds": 15.0
+      },
+      {
+        "horse_name": "メモリアルウッド",
+        "jockey_name": "高松亮",
+        "gate_number": 1,
+        "horse_number": 1,
+        "weight": 502,
+        "weight_change": 5,
+        "win_odds": 3.2
+      },
+      {
+        "horse_name": "アメリカンボーイ",
+        "jockey_name": "阿部英俊",
+        "gate_number": 4,
+        "horse_number": 4,
+        "weight": 512,
+        "weight_change": -5,
+        "win_odds": 33.1
+      },
+      {
+        "horse_name": "リシーハット",
+        "jockey_name": "菅原俊吏",
+        "gate_number": 3,
+        "horse_number": 3,
+        "weight": 463,
+        "weight_change": -6,
+        "win_odds": 40.8
+      },
+      {
+        "horse_name": "ラブブレイブ",
+        "jockey_name": "高橋悠里",
+        "gate_number": 2,
+        "horse_number": 2,
+        "weight": 428,
+        "weight_change": 1,
+        "win_odds": 92.9
+      }
+    ],
+    "results": [
+      {
+        "horse_number": 8,
+        "finish_position": 1
+      },
+      {
+        "horse_number": 5,
+        "finish_position": 2
+      },
+      {
+        "horse_number": 7,
+        "finish_position": 3
+      },
+      {
+        "horse_number": 6,
+        "finish_position": 4
+      },
+      {
+        "horse_number": 1,
+        "finish_position": 5
+      },
+      {
+        "horse_number": 4,
+        "finish_position": 6
+      },
+      {
+        "horse_number": 3,
+        "finish_position": 7
+      },
+      {
+        "horse_number": 2,
+        "finish_position": 8
+      }
+    ],
+    "payouts": [
+      {
+        "bet_type": "単勝",
+        "combination": [
+          8
+        ],
+        "payout": 740
+      },
+      {
+        "bet_type": "複勝",
+        "combination": [
+          8
+        ],
+        "payout": 160
+      },
+      {
+        "bet_type": "複勝",
+        "combination": [
+          5
+        ],
+        "payout": 100
+      },
+      {
+        "bet_type": "複勝",
+        "combination": [
+          7
+        ],
+        "payout": 160
+      },
+      {
+        "bet_type": "馬連",
+        "combination": [
+          5,
+          8
+        ],
+        "payout": 570
+      },
+      {
+        "bet_type": "ワイド",
+        "combination": [
+          5,
+          8
+        ],
+        "payout": 250
+      },
+      {
+        "bet_type": "ワイド",
+        "combination": [
+          7,
+          8
+        ],
+        "payout": 400
+      },
+      {
+        "bet_type": "ワイド",
+        "combination": [
+          5,
+          7
+        ],
+        "payout": 170
+      },
+      {
+        "bet_type": "馬単",
+        "combination": [
+          8,
+          5
+        ],
+        "payout": 2200
+      },
+      {
+        "bet_type": "三連複",
+        "combination": [
+          5,
+          7,
+          8
+        ],
+        "payout": 670
+      },
+      {
+        "bet_type": "三連単",
+        "combination": [
+          8,
+          5,
+          7
+        ],
+        "payout": 5870
+      }
+    ]
+  },
+  {
+    "race_id": "201635060609",
+    "race_name": "アナベル賞C1四組",
+    "race_date": "2016-06-06",
+    "post_time": "16:10",
+    "venue": "不明",
+    "course_type": "ダート",
+    "distance": 1400,
+    "track_condition": "良",
+    "weather": "晴",
+    "entries": [
+      {
+        "horse_name": "ネクストロード",
+        "jockey_name": "斉藤雄一",
+        "gate_number": 8,
+        "horse_number": 9,
+        "weight": 490,
+        "weight_change": -3,
+        "win_odds": 2.4
+      },
+      {
+        "horse_name": "コスモメロス",
+        "jockey_name": "山本聡哉",
+        "gate_number": 1,
+        "horse_number": 1,
+        "weight": 476,
+        "weight_change": 0,
+        "win_odds": 2.7
+      },
+      {
+        "horse_name": "マイネルナタリス",
+        "jockey_name": "陶文峰",
+        "gate_number": 7,
+        "horse_number": 7,
+        "weight": 472,
+        "weight_change": -1,
+        "win_odds": 22.2
+      },
+      {
+        "horse_name": "ホクレアネイチャー",
+        "jockey_name": "小林凌",
+        "gate_number": 6,
+        "horse_number": 6,
+        "weight": 437,
+        "weight_change": 1,
+        "win_odds": 10.4
+      },
+      {
+        "horse_name": "マイネルラヴィーン",
+        "jockey_name": "高松亮",
+        "gate_number": 4,
+        "horse_number": 4,
+        "weight": 448,
+        "weight_change": 1,
+        "win_odds": 7.5
+      },
+      {
+        "horse_name": "ヤマニンネレイス",
+        "jockey_name": "菅原俊吏",
+        "gate_number": 3,
+        "horse_number": 3,
+        "weight": 463,
+        "weight_change": -2,
+        "win_odds": 6.2
+      },
+      {
+        "horse_name": "サンエイインパクト",
+        "jockey_name": "菅原辰徳",
+        "gate_number": 8,
+        "horse_number": 8,
+        "weight": 463,
+        "weight_change": -3,
+        "win_odds": 117.1
+      },
+      {
+        "horse_name": "ケイアイボルト",
+        "jockey_name": "木村暁",
+        "gate_number": 5,
+        "horse_number": 5,
+        "weight": 487,
+        "weight_change": 6,
+        "win_odds": 210.1
+      },
+      {
+        "horse_name": "エルレーグル",
+        "jockey_name": "山本政聡",
+        "gate_number": 2,
+        "horse_number": 2,
+        "weight": 480,
+        "weight_change": 1,
+        "win_odds": 38.8
+      }
+    ],
+    "results": [
+      {
+        "horse_number": 9,
+        "finish_position": 1
+      },
+      {
+        "horse_number": 1,
+        "finish_position": 2
+      },
+      {
+        "horse_number": 7,
+        "finish_position": 3
+      },
+      {
+        "horse_number": 6,
+        "finish_position": 4
+      },
+      {
+        "horse_number": 4,
+        "finish_position": 5
+      },
+      {
+        "horse_number": 3,
+        "finish_position": 6
+      },
+      {
+        "horse_number": 8,
+        "finish_position": 7
+      },
+      {
+        "horse_number": 5,
+        "finish_position": 8
+      },
+      {
+        "horse_number": 2,
+        "finish_position": 9
+      }
+    ],
+    "payouts": [
+      {
+        "bet_type": "単勝",
+        "combination": [
+          9
+        ],
+        "payout": 240
+      },
+      {
+        "bet_type": "複勝",
+        "combination": [
+          9
+        ],
+        "payout": 120
+      },
+      {
+        "bet_type": "複勝",
+        "combination": [
+          1
+        ],
+        "payout": 130
+      },
+      {
+        "bet_type": "複勝",
+        "combination": [
+          7
+        ],
+        "payout": 260
+      },
+      {
+        "bet_type": "馬連",
+        "combination": [
+          1,
+          9
+        ],
+        "payout": 510
+      },
+      {
+        "bet_type": "ワイド",
+        "combination": [
+          1,
+          9
+        ],
+        "payout": 220
+      },
+      {
+        "bet_type": "ワイド",
+        "combination": [
+          7,
+          9
+        ],
+        "payout": 470
+      },
+      {
+        "bet_type": "ワイド",
+        "combination": [
+          1,
+          7
+        ],
+        "payout": 600
+      },
+      {
+        "bet_type": "馬単",
+        "combination": [
+          9,
+          1
+        ],
+        "payout": 640
+      },
+      {
+        "bet_type": "三連複",
+        "combination": [
+          1,
+          7,
+          9
+        ],
+        "payout": 1960
+      },
+      {
+        "bet_type": "三連単",
+        "combination": [
+          9,
+          1,
+          7
+        ],
+        "payout": 5240
+      }
+    ]
+  },
+  {
+    "race_id": "201635060610",
+    "race_name": "第36回岩手ダービーダイヤモ(重賞)",
+    "race_date": "2016-06-06",
+    "post_time": "16:50",
+    "venue": "不明",
+    "course_type": "ダート",
+    "distance": 2000,
+    "track_condition": "良",
+    "weather": "晴",
+    "entries": [
+      {
+        "horse_name": "エンパイアペガサス",
+        "jockey_name": "村上忍",
+        "gate_number": 7,
+        "horse_number": 9,
+        "weight": 515,
+        "weight_change": 1,
+        "win_odds": 1.1
+      },
+      {
+        "horse_name": "サンエイホープ",
+        "jockey_name": "菅原辰徳",
+        "gate_number": 2,
+        "horse_number": 2,
+        "weight": 399,
+        "weight_change": 0,
+        "win_odds": 68.4
+      },
+      {
+        "horse_name": "サプライズハッピー",
+        "jockey_name": "山本聡哉",
+        "gate_number": 5,
+        "horse_number": 5,
+        "weight": 454,
+        "weight_change": 6,
+        "win_odds": 8.6
+      },
+      {
+        "horse_name": "ノーノーイエース",
+        "jockey_name": "斉藤雄一",
+        "gate_number": 6,
+        "horse_number": 6,
+        "weight": 455,
+        "weight_change": 2,
+        "win_odds": 16.0
+      },
+      {
+        "horse_name": "ツネオー",
+        "jockey_name": "山本政聡",
+        "gate_number": 1,
+        "horse_number": 1,
+        "weight": 453,
+        "weight_change": -1,
+        "win_odds": 158.5
+      },
+      {
+        "horse_name": "カントリーサイン",
+        "jockey_name": "吉原寛人",
+        "gate_number": 8,
+        "horse_number": 10,
+        "weight": 477,
+        "weight_change": -2,
+        "win_odds": 36.3
+      },
+      {
+        "horse_name": "ゴールデンアイ",
+        "jockey_name": "陶文峰",
+        "gate_number": 7,
+        "horse_number": 8,
+        "weight": 429,
+        "weight_change": -2,
+        "win_odds": 237.8
+      },
+      {
+        "horse_name": "リュウノファンタジ",
+        "jockey_name": "高橋悠里",
+        "gate_number": 4,
+        "horse_number": 4,
+        "weight": 452,
+        "weight_change": 2,
+        "win_odds": 30.8
+      },
+      {
+        "horse_name": "スクリーンハッピー",
+        "jockey_name": "阿部英俊",
+        "gate_number": 8,
+        "horse_number": 11,
+        "weight": 452,
+        "weight_change": 2,
+        "win_odds": 184.3
+      },
+      {
+        "horse_name": "チャイヨー",
+        "jockey_name": "坂口裕一",
+        "gate_number": 3,
+        "horse_number": 3,
+        "weight": 532,
+        "weight_change": -1,
+        "win_odds": 11.1
+      },
+      {
+        "horse_name": "ラブジェネラル",
+        "jockey_name": "高松亮",
+        "gate_number": 6,
+        "horse_number": 7,
+        "weight": 473,
+        "weight_change": 3,
+        "win_odds": 26.0
+      }
+    ],
+    "results": [
+      {
+        "horse_number": 9,
+        "finish_position": 1
+      },
+      {
+        "horse_number": 2,
+        "finish_position": 2
+      },
+      {
+        "horse_number": 5,
+        "finish_position": 3
+      },
+      {
+        "horse_number": 6,
+        "finish_position": 4
+      },
+      {
+        "horse_number": 1,
+        "finish_position": 5
+      },
+      {
+        "horse_number": 10,
+        "finish_position": 6
+      },
+      {
+        "horse_number": 8,
+        "finish_position": 7
+      },
+      {
+        "horse_number": 4,
+        "finish_position": 8
+      },
+      {
+        "horse_number": 11,
+        "finish_position": 9
+      },
+      {
+        "horse_number": 3,
+        "finish_position": 10
+      },
+      {
+        "horse_number": 7,
+        "finish_position": 11
+      }
+    ],
+    "payouts": [
+      {
+        "bet_type": "単勝",
+        "combination": [
+          9
+        ],
+        "payout": 110
+      },
+      {
+        "bet_type": "複勝",
+        "combination": [
+          9
+        ],
+        "payout": 110
+      },
+      {
+        "bet_type": "複勝",
+        "combination": [
+          2
+        ],
+        "payout": 450
+      },
+      {
+        "bet_type": "複勝",
+        "combination": [
+          5
+        ],
+        "payout": 160
+      },
+      {
+        "bet_type": "馬連",
+        "combination": [
+          2,
+          9
+        ],
+        "payout": 1830
+      },
+      {
+        "bet_type": "ワイド",
+        "combination": [
+          2,
+          9
+        ],
+        "payout": 670
+      },
+      {
+        "bet_type": "ワイド",
+        "combination": [
+          5,
+          9
+        ],
+        "payout": 190
+      },
+      {
+        "bet_type": "ワイド",
+        "combination": [
+          2,
+          5
+        ],
+        "payout": 1910
+      },
+      {
+        "bet_type": "馬単",
+        "combination": [
+          9,
+          2
+        ],
+        "payout": 1730
+      },
+      {
+        "bet_type": "三連複",
+        "combination": [
+          2,
+          5,
+          9
+        ],
+        "payout": 2400
+      },
+      {
+        "bet_type": "三連単",
+        "combination": [
+          9,
+          2,
+          5
+        ],
+        "payout": 8120
+      }
+    ]
+  },
+  {
+    "race_id": "201635060611",
+    "race_name": "ホワイトドーム賞C1",
+    "race_date": "2016-06-06",
+    "post_time": "17:25",
+    "venue": "不明",
+    "course_type": "芝",
+    "distance": 1600,
+    "track_condition": "良",
+    "weather": "晴",
+    "entries": [
+      {
+        "horse_name": "カグニザント",
+        "jockey_name": "村上忍",
+        "gate_number": 6,
+        "horse_number": 6,
+        "weight": 459,
+        "weight_change": 3,
+        "win_odds": 1.7
+      },
+      {
+        "horse_name": "シーザーバローズ",
+        "jockey_name": "斉藤雄一",
+        "gate_number": 5,
+        "horse_number": 5,
+        "weight": 433,
+        "weight_change": -3,
+        "win_odds": 5.9
+      },
+      {
+        "horse_name": "ユナイテッドボス",
+        "jockey_name": "関本淳",
+        "gate_number": 3,
+        "horse_number": 3,
+        "weight": 457,
+        "weight_change": -1,
+        "win_odds": 6.0
+      },
+      {
+        "horse_name": "プラムチャン",
+        "jockey_name": "高橋悠里",
+        "gate_number": 7,
+        "horse_number": 8,
+        "weight": 446,
+        "weight_change": 5,
+        "win_odds": 41.9
+      },
+      {
+        "horse_name": "ヤマニンアドーレ",
+        "jockey_name": "菅原俊吏",
+        "gate_number": 8,
+        "horse_number": 10,
+        "weight": 417,
+        "weight_change": -4,
+        "win_odds": 4.6
+      },
+      {
+        "horse_name": "スターフィッシュ",
+        "jockey_name": "坂口裕一",
+        "gate_number": 1,
+        "horse_number": 1,
+        "weight": 411,
+        "weight_change": -4,
+        "win_odds": 24.5
+      },
+      {
+        "horse_name": "イクスチェッカー",
+        "jockey_name": "山本政聡",
+        "gate_number": 2,
+        "horse_number": 2,
+        "weight": 435,
+        "weight_change": -4,
+        "win_odds": 54.1
+      },
+      {
+        "horse_name": "テンプトミーノット",
+        "jockey_name": "木村暁",
+        "gate_number": 4,
+        "horse_number": 4,
+        "weight": 463,
+        "weight_change": 0,
+        "win_odds": 48.9
+      },
+      {
+        "horse_name": "アパシオナーダ",
+        "jockey_name": "陶文峰",
+        "gate_number": 8,
+        "horse_number": 11,
+        "weight": 422,
+        "weight_change": -1,
+        "win_odds": 85.5
+      },
+      {
+        "horse_name": "メイショウグラチェ",
+        "jockey_name": "山本聡哉",
+        "gate_number": 7,
+        "horse_number": 9,
+        "weight": 456,
+        "weight_change": -6,
+        "win_odds": 48.9
+      },
+      {
+        "horse_name": "ラブリサンシャイン",
+        "jockey_name": "大坪慎",
+        "gate_number": 6,
+        "horse_number": 7,
+        "weight": 364,
+        "weight_change": -4,
+        "win_odds": 164.2
+      }
+    ],
+    "results": [
+      {
+        "horse_number": 6,
+        "finish_position": 1
+      },
+      {
+        "horse_number": 5,
+        "finish_position": 2
+      },
+      {
+        "horse_number": 3,
+        "finish_position": 3
+      },
+      {
+        "horse_number": 8,
+        "finish_position": 4
+      },
+      {
+        "horse_number": 10,
+        "finish_position": 5
+      },
+      {
+        "horse_number": 1,
+        "finish_position": 6
+      },
+      {
+        "horse_number": 2,
+        "finish_position": 7
+      },
+      {
+        "horse_number": 4,
+        "finish_position": 8
+      },
+      {
+        "horse_number": 11,
+        "finish_position": 9
+      },
+      {
+        "horse_number": 9,
+        "finish_position": 10
+      },
+      {
+        "horse_number": 7,
+        "finish_position": 11
+      }
+    ],
+    "payouts": [
+      {
+        "bet_type": "単勝",
+        "combination": [
+          6
+        ],
+        "payout": 170
+      },
+      {
+        "bet_type": "複勝",
+        "combination": [
+          6
+        ],
+        "payout": 100
+      },
+      {
+        "bet_type": "複勝",
+        "combination": [
+          5
+        ],
+        "payout": 150
+      },
+      {
+        "bet_type": "複勝",
+        "combination": [
+          3
+        ],
+        "payout": 130
+      },
+      {
+        "bet_type": "馬連",
+        "combination": [
+          5,
+          6
+        ],
+        "payout": 560
+      },
+      {
+        "bet_type": "ワイド",
+        "combination": [
+          5,
+          6
+        ],
+        "payout": 210
+      },
+      {
+        "bet_type": "ワイド",
+        "combination": [
+          3,
+          6
+        ],
+        "payout": 190
+      },
+      {
+        "bet_type": "ワイド",
+        "combination": [
+          3,
+          5
+        ],
+        "payout": 370
+      },
+      {
+        "bet_type": "馬単",
+        "combination": [
+          6,
+          5
+        ],
+        "payout": 810
+      },
+      {
+        "bet_type": "三連複",
+        "combination": [
+          3,
+          5,
+          6
+        ],
+        "payout": 750
+      },
+      {
+        "bet_type": "三連単",
+        "combination": [
+          6,
+          5,
+          3
+        ],
+        "payout": 2790
+      }
+    ]
+  },
+  {
+    "race_id": "201635060612",
+    "race_name": "初夏特別(A)",
+    "race_date": "2016-06-06",
+    "post_time": "18:05",
+    "venue": "不明",
+    "course_type": "ダート",
+    "distance": 1800,
+    "track_condition": "良",
+    "weather": "晴",
+    "entries": [
+      {
+        "horse_name": "ミラクルフラワー",
+        "jockey_name": "村上忍",
+        "gate_number": 3,
+        "horse_number": 3,
+        "weight": 437,
+        "weight_change": 0,
+        "win_odds": 3.2
+      },
+      {
+        "horse_name": "メテオライト",
+        "jockey_name": "山本聡哉",
+        "gate_number": 8,
+        "horse_number": 8,
+        "weight": 515,
+        "weight_change": 1,
+        "win_odds": 2.7
+      },
+      {
+        "horse_name": "マイネルコランダム",
+        "jockey_name": "坂口裕一",
+        "gate_number": 6,
+        "horse_number": 6,
+        "weight": 488,
+        "weight_change": 5,
+        "win_odds": 10.6
+      },
+      {
+        "horse_name": "ドリームバスケット",
+        "jockey_name": "高松亮",
+        "gate_number": 2,
+        "horse_number": 2,
+        "weight": 467,
+        "weight_change": 1,
+        "win_odds": 21.1
+      },
+      {
+        "horse_name": "エアカーネリアン",
+        "jockey_name": "斉藤雄一",
+        "gate_number": 5,
+        "horse_number": 5,
+        "weight": 480,
+        "weight_change": -3,
+        "win_odds": 3.9
+      },
+      {
+        "horse_name": "マツリダアンバター",
+        "jockey_name": "山本政聡",
+        "gate_number": 4,
+        "horse_number": 4,
+        "weight": 467,
+        "weight_change": -2,
+        "win_odds": 7.5
+      },
+      {
+        "horse_name": "ショウナンダイチ",
+        "jockey_name": "高橋悠里",
+        "gate_number": 7,
+        "horse_number": 7,
+        "weight": 452,
+        "weight_change": -6,
+        "win_odds": 54.6
+      },
+      {
+        "horse_name": "アンブリッジローズ",
+        "jockey_name": "小林凌",
+        "gate_number": 1,
+        "horse_number": 1,
+        "weight": 444,
+        "weight_change": -10,
+        "win_odds": 38.8
+      }
+    ],
+    "results": [
+      {
+        "horse_number": 3,
+        "finish_position": 1
+      },
+      {
+        "horse_number": 8,
+        "finish_position": 2
+      },
+      {
+        "horse_number": 6,
+        "finish_position": 3
+      },
+      {
+        "horse_number": 2,
+        "finish_position": 4
+      },
+      {
+        "horse_number": 5,
+        "finish_position": 5
+      },
+      {
+        "horse_number": 4,
+        "finish_position": 6
+      },
+      {
+        "horse_number": 7,
+        "finish_position": 7
+      },
+      {
+        "horse_number": 1,
+        "finish_position": 8
+      }
+    ],
+    "payouts": [
+      {
+        "bet_type": "単勝",
+        "combination": [
+          3
+        ],
+        "payout": 320
+      },
+      {
+        "bet_type": "複勝",
+        "combination": [
+          3
+        ],
+        "payout": 120
+      },
+      {
+        "bet_type": "複勝",
+        "combination": [
+          8
+        ],
+        "payout": 130
+      },
+      {
+        "bet_type": "複勝",
+        "combination": [
+          6
+        ],
+        "payout": 250
+      },
+      {
+        "bet_type": "馬連",
+        "combination": [
+          3,
+          8
+        ],
+        "payout": 340
+      },
+      {
+        "bet_type": "ワイド",
+        "combination": [
+          3,
+          8
+        ],
+        "payout": 180
+      },
+      {
+        "bet_type": "ワイド",
+        "combination": [
+          3,
+          6
+        ],
+        "payout": 330
+      },
+      {
+        "bet_type": "ワイド",
+        "combination": [
+          6,
+          8
+        ],
+        "payout": 410
+      },
+      {
+        "bet_type": "馬単",
+        "combination": [
+          3,
+          8
+        ],
+        "payout": 710
+      },
+      {
+        "bet_type": "三連複",
+        "combination": [
+          3,
+          6,
+          8
+        ],
+        "payout": 1010
+      },
+      {
+        "bet_type": "三連単",
+        "combination": [
+          3,
+          8,
+          6
+        ],
+        "payout": 4270
+      }
+    ]
+  },
+  {
+    "race_id": "201644060601",
+    "race_name": "C3九 十",
+    "race_date": "2016-06-06",
+    "post_time": "14:55",
+    "venue": "不明",
+    "course_type": "ダート",
+    "distance": 1200,
+    "track_condition": "良",
+    "weather": "曇",
+    "entries": [
+      {
+        "horse_name": "ウルトラショット",
+        "jockey_name": "山崎良",
+        "gate_number": 5,
+        "horse_number": 7,
+        "weight": 487,
+        "weight_change": 4,
+        "win_odds": 2.4
+      },
+      {
+        "horse_name": "ボンドマティーニ",
+        "jockey_name": "笹川翼",
+        "gate_number": 2,
+        "horse_number": 2,
+        "weight": 474,
+        "weight_change": 14,
+        "win_odds": 15.0
+      },
+      {
+        "horse_name": "クリムゾンスカイ",
+        "jockey_name": "上田健人",
+        "gate_number": 7,
+        "horse_number": 11,
+        "weight": 452,
+        "weight_change": 0,
+        "win_odds": 41.0
+      },
+      {
+        "horse_name": "シンデンウルフ",
+        "jockey_name": "柏木健宏",
+        "gate_number": 4,
+        "horse_number": 5,
+        "weight": 476,
+        "weight_change": -4,
+        "win_odds": 6.8
+      },
+      {
+        "horse_name": "カプリオーレ",
+        "jockey_name": "小林拓未",
+        "gate_number": 3,
+        "horse_number": 3,
+        "weight": 425,
+        "weight_change": 0,
+        "win_odds": 178.3
+      },
+      {
+        "horse_name": "アキノハート",
+        "jockey_name": "西啓太",
+        "gate_number": 7,
+        "horse_number": 10,
+        "weight": 498,
+        "weight_change": 3,
+        "win_odds": 2.5
+      },
+      {
+        "horse_name": "オーマイレディ",
+        "jockey_name": "中村尚平",
+        "gate_number": 1,
+        "horse_number": 1,
+        "weight": 462,
+        "weight_change": -2,
+        "win_odds": 53.6
+      },
+      {
+        "horse_name": "リディア",
+        "jockey_name": "石崎駿",
+        "gate_number": 5,
+        "horse_number": 6,
+        "weight": 478,
+        "weight_change": 6,
+        "win_odds": 12.5
+      },
+      {
+        "horse_name": "コメシャワー",
+        "jockey_name": "有年淳",
+        "gate_number": 6,
+        "horse_number": 9,
+        "weight": 444,
+        "weight_change": -4,
+        "win_odds": 48.4
+      },
+      {
+        "horse_name": "アウイナイト",
+        "jockey_name": "高野誠毅",
+        "gate_number": 8,
+        "horse_number": 13,
+        "weight": 410,
+        "weight_change": 4,
+        "win_odds": 17.3
+      },
+      {
+        "horse_name": "ヴェリーベスト",
+        "jockey_name": "東原悠善",
+        "gate_number": 6,
+        "horse_number": 8,
+        "weight": 475,
+        "weight_change": 12,
+        "win_odds": 91.8
+      },
+      {
+        "horse_name": "アフターファイブ",
+        "jockey_name": "赤嶺亮",
+        "gate_number": 8,
+        "horse_number": 12,
+        "weight": 500,
+        "weight_change": 2,
+        "win_odds": 69.2
+      },
+      {
+        "horse_name": "レゼルブランシュ",
+        "jockey_name": "松崎正泰",
+        "gate_number": 4,
+        "horse_number": 4,
+        "weight": 488,
+        "weight_change": 2,
+        "win_odds": 170.5
+      }
+    ],
+    "results": [
+      {
+        "horse_number": 7,
+        "finish_position": 1
+      },
+      {
+        "horse_number": 2,
+        "finish_position": 2
+      },
+      {
+        "horse_number": 11,
+        "finish_position": 3
+      },
+      {
+        "horse_number": 5,
+        "finish_position": 4
+      },
+      {
+        "horse_number": 3,
+        "finish_position": 5
+      },
+      {
+        "horse_number": 10,
+        "finish_position": 6
+      },
+      {
+        "horse_number": 1,
+        "finish_position": 7
+      },
+      {
+        "horse_number": 6,
+        "finish_position": 8
+      },
+      {
+        "horse_number": 9,
+        "finish_position": 9
+      },
+      {
+        "horse_number": 13,
+        "finish_position": 10
+      },
+      {
+        "horse_number": 8,
+        "finish_position": 11
+      },
+      {
+        "horse_number": 12,
+        "finish_position": 12
+      },
+      {
+        "horse_number": 4,
+        "finish_position": 13
+      }
+    ],
+    "payouts": [
+      {
+        "bet_type": "単勝",
+        "combination": [
+          7
+        ],
+        "payout": 240
+      },
+      {
+        "bet_type": "複勝",
+        "combination": [
+          7
+        ],
+        "payout": 140
+      },
+      {
+        "bet_type": "複勝",
+        "combination": [
+          2
+        ],
+        "payout": 280
+      },
+      {
+        "bet_type": "複勝",
+        "combination": [
+          11
+        ],
+        "payout": 1890
+      },
+      {
+        "bet_type": "馬連",
+        "combination": [
+          2,
+          7
+        ],
+        "payout": 1200
+      },
+      {
+        "bet_type": "ワイド",
+        "combination": [
+          2,
+          7
+        ],
+        "payout": 630
+      },
+      {
+        "bet_type": "ワイド",
+        "combination": [
+          7,
+          11
+        ],
+        "payout": 3440
+      },
+      {
+        "bet_type": "ワイド",
+        "combination": [
+          2,
+          11
+        ],
+        "payout": 7830
+      },
+      {
+        "bet_type": "馬単",
+        "combination": [
+          7,
+          2
+        ],
+        "payout": 1720
+      },
+      {
+        "bet_type": "三連複",
+        "combination": [
+          2,
+          7,
+          11
+        ],
+        "payout": 24630
+      },
+      {
+        "bet_type": "三連単",
+        "combination": [
+          7,
+          2,
+          11
+        ],
+        "payout": 81700
+      }
+    ]
+  },
+  {
+    "race_id": "201644060602",
+    "race_name": "C3九 十",
+    "race_date": "2016-06-06",
+    "post_time": "15:25",
+    "venue": "不明",
+    "course_type": "ダート",
+    "distance": 1400,
+    "track_condition": "良",
+    "weather": "曇",
+    "entries": [
+      {
+        "horse_name": "スマートブルーム",
+        "jockey_name": "赤嶺亮",
+        "gate_number": 2,
+        "horse_number": 2,
+        "weight": 453,
+        "weight_change": 4,
+        "win_odds": 5.5
+      },
+      {
+        "horse_name": "カシワアラベスク",
+        "jockey_name": "和田譲治",
+        "gate_number": 3,
+        "horse_number": 3,
+        "weight": 450,
+        "weight_change": 2,
+        "win_odds": 4.4
+      },
+      {
+        "horse_name": "セユウオージャ",
+        "jockey_name": "笠野雄大",
+        "gate_number": 8,
+        "horse_number": 12,
+        "weight": 437,
+        "weight_change": 5,
+        "win_odds": 35.0
+      },
+      {
+        "horse_name": "ボウパラディ",
+        "jockey_name": "高野誠毅",
+        "gate_number": 1,
+        "horse_number": 1,
+        "weight": 433,
+        "weight_change": 1,
+        "win_odds": 215.9
+      },
+      {
+        "horse_name": "タネノブライトン",
+        "jockey_name": "森泰斗",
+        "gate_number": 5,
+        "horse_number": 6,
+        "weight": 482,
+        "weight_change": -5,
+        "win_odds": 7.2
+      },
+      {
+        "horse_name": "サクラクーベラ",
+        "jockey_name": "真島大輔",
+        "gate_number": 4,
+        "horse_number": 5,
+        "weight": 454,
+        "weight_change": 3,
+        "win_odds": 22.0
+      },
+      {
+        "horse_name": "ファルコワン",
+        "jockey_name": "柏木健宏",
+        "gate_number": 6,
+        "horse_number": 9,
+        "weight": 484,
+        "weight_change": 6,
+        "win_odds": 2.7
+      },
+      {
+        "horse_name": "オオイニイコウヨ",
+        "jockey_name": "中野省吾",
+        "gate_number": 6,
+        "horse_number": 8,
+        "weight": 499,
+        "weight_change": 0,
+        "win_odds": 12.3
+      },
+      {
+        "horse_name": "ショウサンジョージ",
+        "jockey_name": "石川駿介",
+        "gate_number": 8,
+        "horse_number": 13,
+        "weight": 472,
+        "weight_change": -5,
+        "win_odds": 27.5
+      },
+      {
+        "horse_name": "ケイティズリング",
+        "jockey_name": "西啓太",
+        "gate_number": 4,
+        "horse_number": 4,
+        "weight": 425,
+        "weight_change": 1,
+        "win_odds": 13.7
+      },
+      {
+        "horse_name": "ブランドコンコルド",
+        "jockey_name": "小林拓未",
+        "gate_number": 7,
+        "horse_number": 10,
+        "weight": 458,
+        "weight_change": 0,
+        "win_odds": 221.8
+      },
+      {
+        "horse_name": "タイムアウト",
+        "jockey_name": "中村尚平",
+        "gate_number": 5,
+        "horse_number": 7,
+        "weight": 462,
+        "weight_change": 6,
+        "win_odds": 18.6
+      },
+      {
+        "horse_name": "イガノアッパー",
+        "jockey_name": "繁田健一",
+        "gate_number": 7,
+        "horse_number": 11,
+        "weight": 465,
+        "weight_change": 0,
+        "win_odds": 82.0
+      }
+    ],
+    "results": [
+      {
+        "horse_number": 2,
+        "finish_position": 1
+      },
+      {
+        "horse_number": 3,
+        "finish_position": 2
+      },
+      {
+        "horse_number": 12,
+        "finish_position": 3
+      },
+      {
+        "horse_number": 1,
+        "finish_position": 4
+      },
+      {
+        "horse_number": 6,
+        "finish_position": 5
+      },
+      {
+        "horse_number": 5,
+        "finish_position": 6
+      },
+      {
+        "horse_number": 9,
+        "finish_position": 7
+      },
+      {
+        "horse_number": 8,
+        "finish_position": 8
+      },
+      {
+        "horse_number": 13,
+        "finish_position": 9
+      },
+      {
+        "horse_number": 4,
+        "finish_position": 10
+      },
+      {
+        "horse_number": 10,
+        "finish_position": 11
+      },
+      {
+        "horse_number": 7,
+        "finish_position": 12
+      },
+      {
+        "horse_number": 11,
+        "finish_position": 13
+      }
+    ],
+    "payouts": [
+      {
+        "bet_type": "単勝",
+        "combination": [
+          2
+        ],
+        "payout": 550
+      },
+      {
+        "bet_type": "複勝",
+        "combination": [
+          2
+        ],
+        "payout": 220
+      },
+      {
+        "bet_type": "複勝",
+        "combination": [
+          3
+        ],
+        "payout": 160
+      },
+      {
+        "bet_type": "複勝",
+        "combination": [
+          12
+        ],
+        "payout": 730
+      },
+      {
+        "bet_type": "馬連",
+        "combination": [
+          2,
+          3
+        ],
+        "payout": 1130
+      },
+      {
+        "bet_type": "ワイド",
+        "combination": [
+          2,
+          3
+        ],
+        "payout": 550
+      },
+      {
+        "bet_type": "ワイド",
+        "combination": [
+          2,
+          12
+        ],
+        "payout": 2780
+      },
+      {
+        "bet_type": "ワイド",
+        "combination": [
+          3,
+          12
+        ],
+        "payout": 2230
+      },
+      {
+        "bet_type": "馬単",
+        "combination": [
+          2,
+          3
+        ],
+        "payout": 2830
+      },
+      {
+        "bet_type": "三連複",
+        "combination": [
+          2,
+          3,
+          12
+        ],
+        "payout": 10630
+      },
+      {
+        "bet_type": "三連単",
+        "combination": [
+          2,
+          3,
+          12
+        ],
+        "payout": 42740
+      }
+    ]
+  },
+  {
+    "race_id": "201644060603",
+    "race_name": "2歳 新馬",
+    "race_date": "2016-06-06",
+    "post_time": "15:55",
+    "venue": "不明",
+    "course_type": "ダート",
+    "distance": 1000,
+    "track_condition": "良",
+    "weather": "曇",
+    "entries": [
+      {
+        "horse_name": "サンノゼ",
+        "jockey_name": "森泰斗",
+        "gate_number": 8,
+        "horse_number": 9,
+        "weight": 451,
+        "weight_change": 0,
+        "win_odds": 2.8
+      },
+      {
+        "horse_name": "カレンドゥラ",
+        "jockey_name": "的場文男",
+        "gate_number": 2,
+        "horse_number": 2,
+        "weight": 460,
+        "weight_change": 0,
+        "win_odds": 13.1
+      },
+      {
+        "horse_name": "ロイヤルヴィラ",
+        "jockey_name": "真島大輔",
+        "gate_number": 5,
+        "horse_number": 5,
+        "weight": 446,
+        "weight_change": 0,
+        "win_odds": 8.5
+      },
+      {
+        "horse_name": "フィオーレ",
+        "jockey_name": "赤嶺亮",
+        "gate_number": 7,
+        "horse_number": 7,
+        "weight": 433,
+        "weight_change": 0,
+        "win_odds": 42.0
+      },
+      {
+        "horse_name": "イズミシンホニー",
+        "jockey_name": "安藤洋一",
+        "gate_number": 1,
+        "horse_number": 1,
+        "weight": 443,
+        "weight_change": 0,
+        "win_odds": 8.6
+      },
+      {
+        "horse_name": "ユメクイ",
+        "jockey_name": "矢野貴之",
+        "gate_number": 3,
+        "horse_number": 3,
+        "weight": 436,
+        "weight_change": 0,
+        "win_odds": 8.1
+      },
+      {
+        "horse_name": "セッカチセラドン",
+        "jockey_name": "笹川翼",
+        "gate_number": 8,
+        "horse_number": 10,
+        "weight": 504,
+        "weight_change": 0,
+        "win_odds": 2.9
+      },
+      {
+        "horse_name": "アバレダイコ",
+        "jockey_name": "和田譲治",
+        "gate_number": 6,
+        "horse_number": 6,
+        "weight": 411,
+        "weight_change": 0,
+        "win_odds": 14.0
+      },
+      {
+        "horse_name": "ナンセイハッピー",
+        "jockey_name": "達城龍次",
+        "gate_number": 7,
+        "horse_number": 8,
+        "weight": 492,
+        "weight_change": 0,
+        "win_odds": 53.5
+      },
+      {
+        "horse_name": "デンショウプラチナ",
+        "jockey_name": "遠藤健太",
+        "gate_number": 4,
+        "horse_number": 4,
+        "weight": 402,
+        "weight_change": 0,
+        "win_odds": 88.3
+      }
+    ],
+    "results": [
+      {
+        "horse_number": 9,
+        "finish_position": 1
+      },
+      {
+        "horse_number": 2,
+        "finish_position": 2
+      },
+      {
+        "horse_number": 5,
+        "finish_position": 3
+      },
+      {
+        "horse_number": 7,
+        "finish_position": 4
+      },
+      {
+        "horse_number": 1,
+        "finish_position": 5
+      },
+      {
+        "horse_number": 3,
+        "finish_position": 6
+      },
+      {
+        "horse_number": 10,
+        "finish_position": 7
+      },
+      {
+        "horse_number": 6,
+        "finish_position": 8
+      },
+      {
+        "horse_number": 8,
+        "finish_position": 9
+      },
+      {
+        "horse_number": 4,
+        "finish_position": 10
+      }
+    ],
+    "payouts": [
+      {
+        "bet_type": "単勝",
+        "combination": [
+          9
+        ],
+        "payout": 280
+      },
+      {
+        "bet_type": "複勝",
+        "combination": [
+          9
+        ],
+        "payout": 140
+      },
+      {
+        "bet_type": "複勝",
+        "combination": [
+          2
+        ],
+        "payout": 300
+      },
+      {
+        "bet_type": "複勝",
+        "combination": [
+          5
+        ],
+        "payout": 200
+      },
+      {
+        "bet_type": "馬連",
+        "combination": [
+          2,
+          9
+        ],
+        "payout": 1490
+      },
+      {
+        "bet_type": "ワイド",
+        "combination": [
+          2,
+          9
+        ],
+        "payout": 590
+      },
+      {
+        "bet_type": "ワイド",
+        "combination": [
+          5,
+          9
+        ],
+        "payout": 520
+      },
+      {
+        "bet_type": "ワイド",
+        "combination": [
+          2,
+          5
+        ],
+        "payout": 1180
+      },
+      {
+        "bet_type": "馬単",
+        "combination": [
+          9,
+          2
+        ],
+        "payout": 2180
+      },
+      {
+        "bet_type": "三連複",
+        "combination": [
+          2,
+          5,
+          9
+        ],
+        "payout": 4180
+      },
+      {
+        "bet_type": "三連単",
+        "combination": [
+          9,
+          2,
+          5
+        ],
+        "payout": 16090
+      }
+    ]
+  },
+  {
+    "race_id": "201644060604",
+    "race_name": "3歳 40万",
+    "race_date": "2016-06-06",
+    "post_time": "16:25",
+    "venue": "不明",
+    "course_type": "ダート",
+    "distance": 1200,
+    "track_condition": "良",
+    "weather": "曇",
+    "entries": [
+      {
+        "horse_name": "エンドレス",
+        "jockey_name": "赤嶺亮",
+        "gate_number": 5,
+        "horse_number": 8,
+        "weight": 459,
+        "weight_change": 0,
+        "win_odds": 3.4
+      },
+      {
+        "horse_name": "カルティエフルール",
+        "jockey_name": "西啓太",
+        "gate_number": 7,
+        "horse_number": 12,
+        "weight": 434,
+        "weight_change": 0,
+        "win_odds": 12.3
+      },
+      {
+        "horse_name": "アリアリ",
+        "jockey_name": "笹川翼",
+        "gate_number": 4,
+        "horse_number": 6,
+        "weight": 466,
+        "weight_change": 0,
+        "win_odds": 9.0
+      },
+      {
+        "horse_name": "プロシード",
+        "jockey_name": "横川怜央",
+        "gate_number": 3,
+        "horse_number": 4,
+        "weight": 487,
+        "weight_change": 0,
+        "win_odds": 16.0
+      },
+      {
+        "horse_name": "ゲルトルート",
+        "jockey_name": "有年淳",
+        "gate_number": 2,
+        "horse_number": 2,
+        "weight": 442,
+        "weight_change": -4,
+        "win_odds": 9.5
+      },
+      {
+        "horse_name": "ホクソウアスセナ",
+        "jockey_name": "中野省吾",
+        "gate_number": 7,
+        "horse_number": 11,
+        "weight": 448,
+        "weight_change": 2,
+        "win_odds": 38.0
+      },
+      {
+        "horse_name": "タマノシュエット",
+        "jockey_name": "楢崎功祐",
+        "gate_number": 8,
+        "horse_number": 14,
+        "weight": 467,
+        "weight_change": 4,
+        "win_odds": 3.7
+      },
+      {
+        "horse_name": "ラヴヒロイン",
+        "jockey_name": "矢野貴之",
+        "gate_number": 8,
+        "horse_number": 13,
+        "weight": 424,
+        "weight_change": 21,
+        "win_odds": 16.3
+      },
+      {
+        "horse_name": "パルティ",
+        "jockey_name": "瀧川寿希",
+        "gate_number": 4,
+        "horse_number": 5,
+        "weight": 547,
+        "weight_change": -1,
+        "win_odds": 42.0
+      },
+      {
+        "horse_name": "メモリースマート",
+        "jockey_name": "酒井忍",
+        "gate_number": 5,
+        "horse_number": 7,
+        "weight": 453,
+        "weight_change": 0,
+        "win_odds": 15.6
+      },
+      {
+        "horse_name": "リゴンドー",
+        "jockey_name": "高野誠毅",
+        "gate_number": 6,
+        "horse_number": 9,
+        "weight": 460,
+        "weight_change": 0,
+        "win_odds": 91.2
+      },
+      {
+        "horse_name": "リコーパーシング",
+        "jockey_name": "達城龍次",
+        "gate_number": 1,
+        "horse_number": 1,
+        "weight": 538,
+        "weight_change": 0,
+        "win_odds": 7.6
+      },
+      {
+        "horse_name": "ジャミーゾーイ",
+        "jockey_name": "吉井竜一",
+        "gate_number": 6,
+        "horse_number": 10,
+        "weight": 467,
+        "weight_change": 9,
+        "win_odds": 153.0
+      },
+      {
+        "horse_name": "ヒデミツクイーン",
+        "jockey_name": "安藤洋一",
+        "gate_number": 3,
+        "horse_number": 3,
+        "weight": 500,
+        "weight_change": -5,
+        "win_odds": 86.9
+      }
+    ],
+    "results": [
+      {
+        "horse_number": 8,
+        "finish_position": 1
+      },
+      {
+        "horse_number": 12,
+        "finish_position": 2
+      },
+      {
+        "horse_number": 6,
+        "finish_position": 3
+      },
+      {
+        "horse_number": 4,
+        "finish_position": 4
+      },
+      {
+        "horse_number": 2,
+        "finish_position": 5
+      },
+      {
+        "horse_number": 11,
+        "finish_position": 6
+      },
+      {
+        "horse_number": 14,
+        "finish_position": 7
+      },
+      {
+        "horse_number": 13,
+        "finish_position": 8
+      },
+      {
+        "horse_number": 5,
+        "finish_position": 9
+      },
+      {
+        "horse_number": 7,
+        "finish_position": 10
+      },
+      {
+        "horse_number": 9,
+        "finish_position": 11
+      },
+      {
+        "horse_number": 1,
+        "finish_position": 12
+      },
+      {
+        "horse_number": 10,
+        "finish_position": 13
+      },
+      {
+        "horse_number": 3,
+        "finish_position": 14
+      }
+    ],
+    "payouts": [
+      {
+        "bet_type": "単勝",
+        "combination": [
+          8
+        ],
+        "payout": 340
+      },
+      {
+        "bet_type": "複勝",
+        "combination": [
+          8
+        ],
+        "payout": 150
+      },
+      {
+        "bet_type": "複勝",
+        "combination": [
+          12
+        ],
+        "payout": 280
+      },
+      {
+        "bet_type": "複勝",
+        "combination": [
+          6
+        ],
+        "payout": 290
+      },
+      {
+        "bet_type": "馬連",
+        "combination": [
+          8,
+          12
+        ],
+        "payout": 1380
+      },
+      {
+        "bet_type": "ワイド",
+        "combination": [
+          8,
+          12
+        ],
+        "payout": 750
+      },
+      {
+        "bet_type": "ワイド",
+        "combination": [
+          6,
+          8
+        ],
+        "payout": 600
+      },
+      {
+        "bet_type": "ワイド",
+        "combination": [
+          6,
+          12
+        ],
+        "payout": 1190
+      },
+      {
+        "bet_type": "馬単",
+        "combination": [
+          8,
+          12
+        ],
+        "payout": 2360
+      },
+      {
+        "bet_type": "三連複",
+        "combination": [
+          6,
+          8,
+          12
+        ],
+        "payout": 4040
+      },
+      {
+        "bet_type": "三連単",
+        "combination": [
+          8,
+          12,
+          6
+        ],
+        "payout": 13450
+      }
+    ]
+  },
+  {
+    "race_id": "201644060605",
+    "race_name": "3歳 40万",
+    "race_date": "2016-06-06",
+    "post_time": "17:00",
+    "venue": "不明",
+    "course_type": "ダート",
+    "distance": 1400,
+    "track_condition": "良",
+    "weather": "曇",
+    "entries": [
+      {
+        "horse_name": "ケンゼン",
+        "jockey_name": "横川怜央",
+        "gate_number": 6,
+        "horse_number": 6,
+        "weight": 545,
+        "weight_change": 0,
+        "win_odds": 2.2
+      },
+      {
+        "horse_name": "ソレイユブリール",
+        "jockey_name": "真島大輔",
+        "gate_number": 7,
+        "horse_number": 7,
+        "weight": 447,
+        "weight_change": 0,
+        "win_odds": 2.1
+      },
+      {
+        "horse_name": "ホウオウサファイア",
+        "jockey_name": "中村尚平",
+        "gate_number": 4,
+        "horse_number": 4,
+        "weight": 501,
+        "weight_change": -14,
+        "win_odds": 18.3
+      },
+      {
+        "horse_name": "ウエストリバー",
+        "jockey_name": "達城龍次",
+        "gate_number": 8,
+        "horse_number": 8,
+        "weight": 473,
+        "weight_change": 0,
+        "win_odds": 8.3
+      },
+      {
+        "horse_name": "アニービー",
+        "jockey_name": "楢崎功祐",
+        "gate_number": 8,
+        "horse_number": 9,
+        "weight": 434,
+        "weight_change": 4,
+        "win_odds": 21.5
+      },
+      {
+        "horse_name": "タカイチハート",
+        "jockey_name": "山崎良",
+        "gate_number": 2,
+        "horse_number": 2,
+        "weight": 457,
+        "weight_change": -5,
+        "win_odds": 36.1
+      },
+      {
+        "horse_name": "キーストンマッハ",
+        "jockey_name": "酒井忍",
+        "gate_number": 5,
+        "horse_number": 5,
+        "weight": 450,
+        "weight_change": 2,
+        "win_odds": 21.3
+      },
+      {
+        "horse_name": "リマーカブル",
+        "jockey_name": "小林拓未",
+        "gate_number": 1,
+        "horse_number": 1,
+        "weight": 410,
+        "weight_change": 4,
+        "win_odds": 67.5
+      },
+      {
+        "horse_name": "リュヌモーヤ",
+        "jockey_name": "有年淳",
+        "gate_number": 3,
+        "horse_number": 3,
+        "weight": 433,
+        "weight_change": -2,
+        "win_odds": 28.8
+      }
+    ],
+    "results": [
+      {
+        "horse_number": 6,
+        "finish_position": 1
+      },
+      {
+        "horse_number": 7,
+        "finish_position": 2
+      },
+      {
+        "horse_number": 4,
+        "finish_position": 3
+      },
+      {
+        "horse_number": 8,
+        "finish_position": 4
+      },
+      {
+        "horse_number": 9,
+        "finish_position": 5
+      },
+      {
+        "horse_number": 2,
+        "finish_position": 6
+      },
+      {
+        "horse_number": 5,
+        "finish_position": 7
+      },
+      {
+        "horse_number": 1,
+        "finish_position": 8
+      },
+      {
+        "horse_number": 3,
+        "finish_position": 9
+      }
+    ],
+    "payouts": [
+      {
+        "bet_type": "単勝",
+        "combination": [
+          6
+        ],
+        "payout": 220
+      },
+      {
+        "bet_type": "複勝",
+        "combination": [
+          6
+        ],
+        "payout": 120
+      },
+      {
+        "bet_type": "複勝",
+        "combination": [
+          7
+        ],
+        "payout": 120
+      },
+      {
+        "bet_type": "複勝",
+        "combination": [
+          4
+        ],
+        "payout": 200
+      },
+      {
+        "bet_type": "馬連",
+        "combination": [
+          6,
+          7
+        ],
+        "payout": 190
+      },
+      {
+        "bet_type": "ワイド",
+        "combination": [
+          6,
+          7
+        ],
+        "payout": 160
+      },
+      {
+        "bet_type": "ワイド",
+        "combination": [
+          4,
+          6
+        ],
+        "payout": 410
+      },
+      {
+        "bet_type": "ワイド",
+        "combination": [
+          4,
+          7
+        ],
+        "payout": 430
+      },
+      {
+        "bet_type": "馬単",
+        "combination": [
+          6,
+          7
+        ],
+        "payout": 410
+      },
+      {
+        "bet_type": "三連複",
+        "combination": [
+          4,
+          6,
+          7
+        ],
+        "payout": 740
+      },
+      {
+        "bet_type": "三連単",
+        "combination": [
+          6,
+          7,
+          4
+        ],
+        "payout": 2450
+      }
+    ]
+  },
+  {
+    "race_id": "201644060606",
+    "race_name": "3歳 95万",
+    "race_date": "2016-06-06",
+    "post_time": "17:30",
+    "venue": "不明",
+    "course_type": "ダート",
+    "distance": 1200,
+    "track_condition": "良",
+    "weather": "曇",
+    "entries": [
+      {
+        "horse_name": "ケンロワイヤル",
+        "jockey_name": "繁田健一",
+        "gate_number": 7,
+        "horse_number": 12,
+        "weight": 470,
+        "weight_change": 0,
+        "win_odds": 3.2
+      },
+      {
+        "horse_name": "ストリートギャング",
+        "jockey_name": "有年淳",
+        "gate_number": 4,
+        "horse_number": 5,
+        "weight": 446,
+        "weight_change": -2,
+        "win_odds": 15.4
+      },
+      {
+        "horse_name": "マルカンジライヤ",
+        "jockey_name": "高野誠毅",
+        "gate_number": 3,
+        "horse_number": 3,
+        "weight": 460,
+        "weight_change": -1,
+        "win_odds": 76.2
+      },
+      {
+        "horse_name": "ユウオウマイシン",
+        "jockey_name": "沢田龍哉",
+        "gate_number": 8,
+        "horse_number": 13,
+        "weight": 423,
+        "weight_change": -4,
+        "win_odds": 15.6
+      },
+      {
+        "horse_name": "エスプリゴールド",
+        "jockey_name": "中野省吾",
+        "gate_number": 1,
+        "horse_number": 1,
+        "weight": 503,
+        "weight_change": 5,
+        "win_odds": 10.5
+      },
+      {
+        "horse_name": "ケイエムキング",
+        "jockey_name": "石崎駿",
+        "gate_number": 3,
+        "horse_number": 4,
+        "weight": 450,
+        "weight_change": 1,
+        "win_odds": 45.2
+      },
+      {
+        "horse_name": "ラピディーテ",
+        "jockey_name": "瀬川将輝",
+        "gate_number": 2,
+        "horse_number": 2,
+        "weight": 490,
+        "weight_change": 8,
+        "win_odds": 4.4
+      },
+      {
+        "horse_name": "キモンノトモエ",
+        "jockey_name": "吉井竜一",
+        "gate_number": 6,
+        "horse_number": 10,
+        "weight": 411,
+        "weight_change": 1,
+        "win_odds": 22.2
+      },
+      {
+        "horse_name": "ギオンラッシュ",
+        "jockey_name": "和田譲治",
+        "gate_number": 7,
+        "horse_number": 11,
+        "weight": 474,
+        "weight_change": -1,
+        "win_odds": 3.8
+      },
+      {
+        "horse_name": "ブギーサムソン",
+        "jockey_name": "達城龍次",
+        "gate_number": 5,
+        "horse_number": 8,
+        "weight": 503,
+        "weight_change": -2,
+        "win_odds": 98.6
+      },
+      {
+        "horse_name": "ベホマズン",
+        "jockey_name": "山崎誠士",
+        "gate_number": 6,
+        "horse_number": 9,
+        "weight": 470,
+        "weight_change": 1,
+        "win_odds": 196.5
+      },
+      {
+        "horse_name": "エイミーフレイバー",
+        "jockey_name": "森泰斗",
+        "gate_number": 5,
+        "horse_number": 7,
+        "weight": 480,
+        "weight_change": 6,
+        "win_odds": 10.1
+      },
+      {
+        "horse_name": "カンガルーグリーン",
+        "jockey_name": "瀧川寿希",
+        "gate_number": 4,
+        "horse_number": 6,
+        "weight": 424,
+        "weight_change": 1,
+        "win_odds": 33.2
+      },
+      {
+        "horse_name": "ナマシボリ",
+        "jockey_name": "西啓太",
+        "gate_number": 8,
+        "horse_number": 14,
+        "weight": 407,
+        "weight_change": 6,
+        "win_odds": 117.1
+      }
+    ],
+    "results": [
+      {
+        "horse_number": 12,
+        "finish_position": 1
+      },
+      {
+        "horse_number": 5,
+        "finish_position": 2
+      },
+      {
+        "horse_number": 3,
+        "finish_position": 3
+      },
+      {
+        "horse_number": 13,
+        "finish_position": 4
+      },
+      {
+        "horse_number": 1,
+        "finish_position": 5
+      },
+      {
+        "horse_number": 4,
+        "finish_position": 6
+      },
+      {
+        "horse_number": 2,
+        "finish_position": 7
+      },
+      {
+        "horse_number": 10,
+        "finish_position": 8
+      },
+      {
+        "horse_number": 11,
+        "finish_position": 9
+      },
+      {
+        "horse_number": 8,
+        "finish_position": 10
+      },
+      {
+        "horse_number": 9,
+        "finish_position": 11
+      },
+      {
+        "horse_number": 7,
+        "finish_position": 12
+      },
+      {
+        "horse_number": 6,
+        "finish_position": 13
+      },
+      {
+        "horse_number": 14,
+        "finish_position": 14
+      }
+    ],
+    "payouts": [
+      {
+        "bet_type": "単勝",
+        "combination": [
+          12
+        ],
+        "payout": 320
+      },
+      {
+        "bet_type": "複勝",
+        "combination": [
+          12
+        ],
+        "payout": 170
+      },
+      {
+        "bet_type": "複勝",
+        "combination": [
+          5
+        ],
+        "payout": 530
+      },
+      {
+        "bet_type": "複勝",
+        "combination": [
+          3
+        ],
+        "payout": 1290
+      },
+      {
+        "bet_type": "馬連",
+        "combination": [
+          5,
+          12
+        ],
+        "payout": 1760
+      },
+      {
+        "bet_type": "ワイド",
+        "combination": [
+          5,
+          12
+        ],
+        "payout": 690
+      },
+      {
+        "bet_type": "ワイド",
+        "combination": [
+          3,
+          12
+        ],
+        "payout": 2520
+      },
+      {
+        "bet_type": "ワイド",
+        "combination": [
+          3,
+          5
+        ],
+        "payout": 8010
+      },
+      {
+        "bet_type": "馬単",
+        "combination": [
+          12,
+          5
+        ],
+        "payout": 2360
+      },
+      {
+        "bet_type": "三連複",
+        "combination": [
+          3,
+          5,
+          12
+        ],
+        "payout": 38270
+      },
+      {
+        "bet_type": "三連単",
+        "combination": [
+          12,
+          5,
+          3
+        ],
+        "payout": 97180
+      }
+    ]
+  },
+  {
+    "race_id": "201644060607",
+    "race_name": "3歳 95万",
+    "race_date": "2016-06-06",
+    "post_time": "18:00",
+    "venue": "不明",
+    "course_type": "ダート",
+    "distance": 1400,
+    "track_condition": "良",
+    "weather": "曇",
+    "entries": [
+      {
+        "horse_name": "イーリン",
+        "jockey_name": "中野省吾",
+        "gate_number": 4,
+        "horse_number": 6,
+        "weight": 480,
+        "weight_change": 2,
+        "win_odds": 2.7
+      },
+      {
+        "horse_name": "ヤマジュンマグマ",
+        "jockey_name": "瀧川寿希",
+        "gate_number": 8,
+        "horse_number": 14,
+        "weight": 497,
+        "weight_change": -4,
+        "win_odds": 104.8
+      },
+      {
+        "horse_name": "レヴォントゥレット",
+        "jockey_name": "笹川翼",
+        "gate_number": 4,
+        "horse_number": 5,
+        "weight": 456,
+        "weight_change": -1,
+        "win_odds": 5.0
+      },
+      {
+        "horse_name": "トチノゴールド",
+        "jockey_name": "森泰斗",
+        "gate_number": 7,
+        "horse_number": 12,
+        "weight": 455,
+        "weight_change": -4,
+        "win_odds": 11.9
+      },
+      {
+        "horse_name": "ワイエスキャロル",
+        "jockey_name": "今野忠成",
+        "gate_number": 1,
+        "horse_number": 1,
+        "weight": 417,
+        "weight_change": -3,
+        "win_odds": 28.7
+      },
+      {
+        "horse_name": "ヒャダルコ",
+        "jockey_name": "酒井忍",
+        "gate_number": 7,
+        "horse_number": 11,
+        "weight": 450,
+        "weight_change": -2,
+        "win_odds": 17.8
+      },
+      {
+        "horse_name": "コーゲンジュピター",
+        "jockey_name": "有年淳",
+        "gate_number": 2,
+        "horse_number": 2,
+        "weight": 426,
+        "weight_change": 6,
+        "win_odds": 40.7
+      },
+      {
+        "horse_name": "テラザグレイト",
+        "jockey_name": "本橋孝太",
+        "gate_number": 3,
+        "horse_number": 3,
+        "weight": 470,
+        "weight_change": 13,
+        "win_odds": 4.9
+      },
+      {
+        "horse_name": "ジャズマン",
+        "jockey_name": "中村尚平",
+        "gate_number": 5,
+        "horse_number": 7,
+        "weight": 449,
+        "weight_change": 5,
+        "win_odds": 53.4
+      },
+      {
+        "horse_name": "フラワーガーデン",
+        "jockey_name": "的場文男",
+        "gate_number": 3,
+        "horse_number": 4,
+        "weight": 446,
+        "weight_change": -3,
+        "win_odds": 7.2
+      },
+      {
+        "horse_name": "ヴァンクールハート",
+        "jockey_name": "達城龍次",
+        "gate_number": 5,
+        "horse_number": 8,
+        "weight": 431,
+        "weight_change": 0,
+        "win_odds": 23.8
+      },
+      {
+        "horse_name": "カズノアレックス",
+        "jockey_name": "楢崎功祐",
+        "gate_number": 8,
+        "horse_number": 13,
+        "weight": 527,
+        "weight_change": 6,
+        "win_odds": 15.6
+      },
+      {
+        "horse_name": "スターサイレンス",
+        "jockey_name": "東原悠善",
+        "gate_number": 6,
+        "horse_number": 9,
+        "weight": 427,
+        "weight_change": 1,
+        "win_odds": 91.7
+      },
+      {
+        "horse_name": "タカイチブラック",
+        "jockey_name": "安藤洋一",
+        "gate_number": 6,
+        "horse_number": 10,
+        "weight": 433,
+        "weight_change": 2,
+        "win_odds": 190.0
+      }
+    ],
+    "results": [
+      {
+        "horse_number": 6,
+        "finish_position": 1
+      },
+      {
+        "horse_number": 14,
+        "finish_position": 2
+      },
+      {
+        "horse_number": 5,
+        "finish_position": 3
+      },
+      {
+        "horse_number": 12,
+        "finish_position": 4
+      },
+      {
+        "horse_number": 1,
+        "finish_position": 5
+      },
+      {
+        "horse_number": 11,
+        "finish_position": 6
+      },
+      {
+        "horse_number": 2,
+        "finish_position": 7
+      },
+      {
+        "horse_number": 3,
+        "finish_position": 8
+      },
+      {
+        "horse_number": 7,
+        "finish_position": 9
+      },
+      {
+        "horse_number": 4,
+        "finish_position": 10
+      },
+      {
+        "horse_number": 8,
+        "finish_position": 11
+      },
+      {
+        "horse_number": 13,
+        "finish_position": 12
+      },
+      {
+        "horse_number": 9,
+        "finish_position": 13
+      },
+      {
+        "horse_number": 10,
+        "finish_position": 14
+      }
+    ],
+    "payouts": [
+      {
+        "bet_type": "単勝",
+        "combination": [
+          6
+        ],
+        "payout": 270
+      },
+      {
+        "bet_type": "複勝",
+        "combination": [
+          6
+        ],
+        "payout": 140
+      },
+      {
+        "bet_type": "複勝",
+        "combination": [
+          14
+        ],
+        "payout": 1200
+      },
+      {
+        "bet_type": "複勝",
+        "combination": [
+          5
+        ],
+        "payout": 160
+      },
+      {
+        "bet_type": "馬連",
+        "combination": [
+          6,
+          14
+        ],
+        "payout": 8130
+      },
+      {
+        "bet_type": "ワイド",
+        "combination": [
+          6,
+          14
+        ],
+        "payout": 3330
+      },
+      {
+        "bet_type": "ワイド",
+        "combination": [
+          5,
+          6
+        ],
+        "payout": 330
+      },
+      {
+        "bet_type": "ワイド",
+        "combination": [
+          5,
+          14
+        ],
+        "payout": 7100
+      },
+      {
+        "bet_type": "馬単",
+        "combination": [
+          6,
+          14
+        ],
+        "payout": 11500
+      },
+      {
+        "bet_type": "三連複",
+        "combination": [
+          5,
+          6,
+          14
+        ],
+        "payout": 19710
+      },
+      {
+        "bet_type": "三連単",
+        "combination": [
+          6,
+          14,
+          5
+        ],
+        "payout": 100690
+      }
+    ]
+  },
+  {
+    "race_id": "201644060608",
+    "race_name": "C2四 五",
+    "race_date": "2016-06-06",
+    "post_time": "18:30",
+    "venue": "不明",
+    "course_type": "ダート",
+    "distance": 1200,
+    "track_condition": "良",
+    "weather": "曇",
+    "entries": [
+      {
+        "horse_name": "コウヨウヒリュウ",
+        "jockey_name": "有年淳",
+        "gate_number": 3,
+        "horse_number": 3,
+        "weight": 494,
+        "weight_change": -4,
+        "win_odds": 6.8
+      },
+      {
+        "horse_name": "アサヒノマッチ",
+        "jockey_name": "矢野貴之",
+        "gate_number": 1,
+        "horse_number": 1,
+        "weight": 482,
+        "weight_change": 1,
+        "win_odds": 20.6
+      },
+      {
+        "horse_name": "ショウナンアバロン",
+        "jockey_name": "笹川翼",
+        "gate_number": 7,
+        "horse_number": 11,
+        "weight": 446,
+        "weight_change": -3,
+        "win_odds": 19.5
+      },
+      {
+        "horse_name": "カズノムーン",
+        "jockey_name": "坂井英光",
+        "gate_number": 4,
+        "horse_number": 4,
+        "weight": 535,
+        "weight_change": -5,
+        "win_odds": 17.8
+      },
+      {
+        "horse_name": "ケンワイルド",
+        "jockey_name": "繁田健一",
+        "gate_number": 5,
+        "horse_number": 7,
+        "weight": 464,
+        "weight_change": 0,
+        "win_odds": 15.1
+      },
+      {
+        "horse_name": "ブラックフォンテン",
+        "jockey_name": "本田正重",
+        "gate_number": 5,
+        "horse_number": 6,
+        "weight": 454,
+        "weight_change": -1,
+        "win_odds": 5.0
+      },
+      {
+        "horse_name": "キングシャノン",
+        "jockey_name": "小林拓未",
+        "gate_number": 8,
+        "horse_number": 13,
+        "weight": 459,
+        "weight_change": 5,
+        "win_odds": 2.1
+      },
+      {
+        "horse_name": "ロイヤルドリーム",
+        "jockey_name": "早田功駿",
+        "gate_number": 8,
+        "horse_number": 12,
+        "weight": 480,
+        "weight_change": -1,
+        "win_odds": 20.3
+      },
+      {
+        "horse_name": "フェイトアバンス",
+        "jockey_name": "中村尚平",
+        "gate_number": 7,
+        "horse_number": 10,
+        "weight": 470,
+        "weight_change": -3,
+        "win_odds": 66.1
+      },
+      {
+        "horse_name": "インデアンレコード",
+        "jockey_name": "和田譲治",
+        "gate_number": 2,
+        "horse_number": 2,
+        "weight": 537,
+        "weight_change": -4,
+        "win_odds": 8.8
+      },
+      {
+        "horse_name": "ウインホイッスル",
+        "jockey_name": "川島正太",
+        "gate_number": 4,
+        "horse_number": 5,
+        "weight": 450,
+        "weight_change": 10,
+        "win_odds": 65.2
+      },
+      {
+        "horse_name": "タケノオーラ",
+        "jockey_name": "横川怜央",
+        "gate_number": 6,
+        "horse_number": 9,
+        "weight": 465,
+        "weight_change": 1,
+        "win_odds": 94.6
+      },
+      {
+        "horse_name": "ナリチュウラブ",
+        "jockey_name": "的場文男",
+        "gate_number": 6,
+        "horse_number": 8,
+        "weight": 482,
+        "weight_change": -1,
+        "win_odds": 39.5
+      }
+    ],
+    "results": [
+      {
+        "horse_number": 3,
+        "finish_position": 1
+      },
+      {
+        "horse_number": 1,
+        "finish_position": 2
+      },
+      {
+        "horse_number": 11,
+        "finish_position": 3
+      },
+      {
+        "horse_number": 4,
+        "finish_position": 4
+      },
+      {
+        "horse_number": 7,
+        "finish_position": 5
+      },
+      {
+        "horse_number": 6,
+        "finish_position": 6
+      },
+      {
+        "horse_number": 13,
+        "finish_position": 7
+      },
+      {
+        "horse_number": 12,
+        "finish_position": 8
+      },
+      {
+        "horse_number": 10,
+        "finish_position": 9
+      },
+      {
+        "horse_number": 2,
+        "finish_position": 10
+      },
+      {
+        "horse_number": 5,
+        "finish_position": 11
+      },
+      {
+        "horse_number": 9,
+        "finish_position": 12
+      },
+      {
+        "horse_number": 8,
+        "finish_position": 13
+      }
+    ],
+    "payouts": [
+      {
+        "bet_type": "単勝",
+        "combination": [
+          3
+        ],
+        "payout": 680
+      },
+      {
+        "bet_type": "複勝",
+        "combination": [
+          3
+        ],
+        "payout": 190
+      },
+      {
+        "bet_type": "複勝",
+        "combination": [
+          1
+        ],
+        "payout": 700
+      },
+      {
+        "bet_type": "複勝",
+        "combination": [
+          11
+        ],
+        "payout": 600
+      },
+      {
+        "bet_type": "馬連",
+        "combination": [
+          1,
+          3
+        ],
+        "payout": 5990
+      },
+      {
+        "bet_type": "ワイド",
+        "combination": [
+          1,
+          3
+        ],
+        "payout": 1660
+      },
+      {
+        "bet_type": "ワイド",
+        "combination": [
+          3,
+          11
+        ],
+        "payout": 1650
+      },
+      {
+        "bet_type": "ワイド",
+        "combination": [
+          1,
+          11
+        ],
+        "payout": 2900
+      },
+      {
+        "bet_type": "馬単",
+        "combination": [
+          3,
+          1
+        ],
+        "payout": 11930
+      },
+      {
+        "bet_type": "三連複",
+        "combination": [
+          1,
+          3,
+          11
+        ],
+        "payout": 26690
+      },
+      {
+        "bet_type": "三連単",
+        "combination": [
+          3,
+          1,
+          11
+        ],
+        "payout": 148950
+      }
+    ]
+  },
+  {
+    "race_id": "201644060609",
+    "race_name": "C2四 五",
+    "race_date": "2016-06-06",
+    "post_time": "19:05",
+    "venue": "不明",
+    "course_type": "ダート",
+    "distance": 1600,
+    "track_condition": "良",
+    "weather": "曇",
+    "entries": [
+      {
+        "horse_name": "アゼリア",
+        "jockey_name": "本橋孝太",
+        "gate_number": 5,
+        "horse_number": 5,
+        "weight": 463,
+        "weight_change": 4,
+        "win_odds": 4.6
+      },
+      {
+        "horse_name": "ドラゴンブラック",
+        "jockey_name": "笹川翼",
+        "gate_number": 6,
+        "horse_number": 8,
+        "weight": 476,
+        "weight_change": -4,
+        "win_odds": 5.6
+      },
+      {
+        "horse_name": "エスプリドール",
+        "jockey_name": "中野省吾",
+        "gate_number": 4,
+        "horse_number": 4,
+        "weight": 470,
+        "weight_change": -3,
+        "win_odds": 6.2
+      },
+      {
+        "horse_name": "マルカンファイヤー",
+        "jockey_name": "今野忠成",
+        "gate_number": 2,
+        "horse_number": 2,
+        "weight": 483,
+        "weight_change": -3,
+        "win_odds": 28.1
+      },
+      {
+        "horse_name": "カシノレインボー",
+        "jockey_name": "和田譲治",
+        "gate_number": 5,
+        "horse_number": 6,
+        "weight": 456,
+        "weight_change": 2,
+        "win_odds": 18.0
+      },
+      {
+        "horse_name": "サトーリアス",
+        "jockey_name": "山崎誠士",
+        "gate_number": 6,
+        "horse_number": 7,
+        "weight": 475,
+        "weight_change": -1,
+        "win_odds": 35.8
+      },
+      {
+        "horse_name": "キャラック",
+        "jockey_name": "柏木健宏",
+        "gate_number": 3,
+        "horse_number": 3,
+        "weight": 476,
+        "weight_change": 4,
+        "win_odds": 24.8
+      },
+      {
+        "horse_name": "シルクスコーピオン",
+        "jockey_name": "瀧川寿希",
+        "gate_number": 8,
+        "horse_number": 12,
+        "weight": 473,
+        "weight_change": 6,
+        "win_odds": 4.4
+      },
+      {
+        "horse_name": "カイジンキングオー",
+        "jockey_name": "達城龍次",
+        "gate_number": 1,
+        "horse_number": 1,
+        "weight": 466,
+        "weight_change": 8,
+        "win_odds": 98.6
+      },
+      {
+        "horse_name": "チェイスザチャンス",
+        "jockey_name": "森泰斗",
+        "gate_number": 8,
+        "horse_number": 11,
+        "weight": 499,
+        "weight_change": 16,
+        "win_odds": 3.5
+      },
+      {
+        "horse_name": "ハッピーポーター",
+        "jockey_name": "西啓太",
+        "gate_number": 7,
+        "horse_number": 9,
+        "weight": 447,
+        "weight_change": 4,
+        "win_odds": 94.9
+      },
+      {
+        "horse_name": "ケンホットロード",
+        "jockey_name": "繁田健一",
+        "gate_number": 7,
+        "horse_number": 10,
+        "weight": 473,
+        "weight_change": -27,
+        "win_odds": 78.3
+      }
+    ],
+    "results": [
+      {
+        "horse_number": 5,
+        "finish_position": 1
+      },
+      {
+        "horse_number": 8,
+        "finish_position": 2
+      },
+      {
+        "horse_number": 4,
+        "finish_position": 3
+      },
+      {
+        "horse_number": 2,
+        "finish_position": 4
+      },
+      {
+        "horse_number": 6,
+        "finish_position": 5
+      },
+      {
+        "horse_number": 7,
+        "finish_position": 6
+      },
+      {
+        "horse_number": 3,
+        "finish_position": 7
+      },
+      {
+        "horse_number": 12,
+        "finish_position": 8
+      },
+      {
+        "horse_number": 1,
+        "finish_position": 9
+      },
+      {
+        "horse_number": 11,
+        "finish_position": 10
+      },
+      {
+        "horse_number": 9,
+        "finish_position": 11
+      },
+      {
+        "horse_number": 10,
+        "finish_position": 12
+      }
+    ],
+    "payouts": [
+      {
+        "bet_type": "単勝",
+        "combination": [
+          5
+        ],
+        "payout": 460
+      },
+      {
+        "bet_type": "複勝",
+        "combination": [
+          5
+        ],
+        "payout": 180
+      },
+      {
+        "bet_type": "複勝",
+        "combination": [
+          8
+        ],
+        "payout": 190
+      },
+      {
+        "bet_type": "複勝",
+        "combination": [
+          4
+        ],
+        "payout": 190
+      },
+      {
+        "bet_type": "馬連",
+        "combination": [
+          5,
+          8
+        ],
+        "payout": 1900
+      },
+      {
+        "bet_type": "ワイド",
+        "combination": [
+          5,
+          8
+        ],
+        "payout": 670
+      },
+      {
+        "bet_type": "ワイド",
+        "combination": [
+          4,
+          5
+        ],
+        "payout": 490
+      },
+      {
+        "bet_type": "ワイド",
+        "combination": [
+          4,
+          8
+        ],
+        "payout": 520
+      },
+      {
+        "bet_type": "馬単",
+        "combination": [
+          5,
+          8
+        ],
+        "payout": 3330
+      },
+      {
+        "bet_type": "三連複",
+        "combination": [
+          4,
+          5,
+          8
+        ],
+        "payout": 2690
+      },
+      {
+        "bet_type": "三連単",
+        "combination": [
+          5,
+          8,
+          4
+        ],
+        "payout": 16950
+      }
+    ]
+  },
+  {
+    "race_id": "201644060610",
+    "race_name": "風待月特別競走(C2)",
+    "race_date": "2016-06-06",
+    "post_time": "19:40",
+    "venue": "不明",
+    "course_type": "ダート",
+    "distance": 1400,
+    "track_condition": "良",
+    "weather": "曇",
+    "entries": [
+      {
+        "horse_name": "インタープレイ",
+        "jockey_name": "矢野貴之",
+        "gate_number": 1,
+        "horse_number": 1,
+        "weight": 443,
+        "weight_change": 2,
+        "win_odds": 3.3
+      },
+      {
+        "horse_name": "スナークソフィア",
+        "jockey_name": "本橋孝太",
+        "gate_number": 5,
+        "horse_number": 8,
+        "weight": 462,
+        "weight_change": -5,
+        "win_odds": 20.4
+      },
+      {
+        "horse_name": "カンスタントリー",
+        "jockey_name": "的場文男",
+        "gate_number": 7,
+        "horse_number": 11,
+        "weight": 503,
+        "weight_change": 5,
+        "win_odds": 5.6
+      },
+      {
+        "horse_name": "ヴァミリジュエル",
+        "jockey_name": "小林拓未",
+        "gate_number": 8,
+        "horse_number": 13,
+        "weight": 470,
+        "weight_change": 5,
+        "win_odds": 28.7
+      },
+      {
+        "horse_name": "ユメノヒト",
+        "jockey_name": "中野省吾",
+        "gate_number": 3,
+        "horse_number": 4,
+        "weight": 439,
+        "weight_change": 2,
+        "win_odds": 12.9
+      },
+      {
+        "horse_name": "フェリックス",
+        "jockey_name": "森泰斗",
+        "gate_number": 6,
+        "horse_number": 9,
+        "weight": 499,
+        "weight_change": 2,
+        "win_odds": 4.4
+      },
+      {
+        "horse_name": "アンイモン",
+        "jockey_name": "山崎誠士",
+        "gate_number": 5,
+        "horse_number": 7,
+        "weight": 434,
+        "weight_change": -1,
+        "win_odds": 179.3
+      },
+      {
+        "horse_name": "ハクシンナデシコ",
+        "jockey_name": "和田譲治",
+        "gate_number": 8,
+        "horse_number": 14,
+        "weight": 490,
+        "weight_change": -3,
+        "win_odds": 8.6
+      },
+      {
+        "horse_name": "コスモサリュビア",
+        "jockey_name": "達城龍次",
+        "gate_number": 6,
+        "horse_number": 10,
+        "weight": 483,
+        "weight_change": 0,
+        "win_odds": 39.2
+      },
+      {
+        "horse_name": "オメガベントレー",
+        "jockey_name": "本田正重",
+        "gate_number": 4,
+        "horse_number": 5,
+        "weight": 452,
+        "weight_change": -1,
+        "win_odds": 114.6
+      },
+      {
+        "horse_name": "サカベンツヨシ",
+        "jockey_name": "坂井英光",
+        "gate_number": 7,
+        "horse_number": 12,
+        "weight": 460,
+        "weight_change": -1,
+        "win_odds": 21.8
+      },
+      {
+        "horse_name": "フォアグリーム",
+        "jockey_name": "瀧川寿希",
+        "gate_number": 4,
+        "horse_number": 6,
+        "weight": 496,
+        "weight_change": 0,
+        "win_odds": 5.6
+      },
+      {
+        "horse_name": "アレキサンドローズ",
+        "jockey_name": "赤嶺亮",
+        "gate_number": 3,
+        "horse_number": 3,
+        "weight": 480,
+        "weight_change": -1,
+        "win_odds": 100.9
+      }
+    ],
+    "results": [
+      {
+        "horse_number": 1,
+        "finish_position": 1
+      },
+      {
+        "horse_number": 8,
+        "finish_position": 2
+      },
+      {
+        "horse_number": 11,
+        "finish_position": 3
+      },
+      {
+        "horse_number": 13,
+        "finish_position": 4
+      },
+      {
+        "horse_number": 4,
+        "finish_position": 5
+      },
+      {
+        "horse_number": 9,
+        "finish_position": 6
+      },
+      {
+        "horse_number": 7,
+        "finish_position": 7
+      },
+      {
+        "horse_number": 14,
+        "finish_position": 8
+      },
+      {
+        "horse_number": 10,
+        "finish_position": 9
+      },
+      {
+        "horse_number": 5,
+        "finish_position": 10
+      },
+      {
+        "horse_number": 12,
+        "finish_position": 11
+      },
+      {
+        "horse_number": 6,
+        "finish_position": 12
+      },
+      {
+        "horse_number": 3,
+        "finish_position": 13
+      }
+    ],
+    "payouts": [
+      {
+        "bet_type": "単勝",
+        "combination": [
+          1
+        ],
+        "payout": 330
+      },
+      {
+        "bet_type": "複勝",
+        "combination": [
+          1
+        ],
+        "payout": 160
+      },
+      {
+        "bet_type": "複勝",
+        "combination": [
+          8
+        ],
+        "payout": 340
+      },
+      {
+        "bet_type": "複勝",
+        "combination": [
+          11
+        ],
+        "payout": 170
+      },
+      {
+        "bet_type": "馬連",
+        "combination": [
+          1,
+          8
+        ],
+        "payout": 3330
+      },
+      {
+        "bet_type": "ワイド",
+        "combination": [
+          1,
+          8
+        ],
+        "payout": 950
+      },
+      {
+        "bet_type": "ワイド",
+        "combination": [
+          1,
+          11
+        ],
+        "payout": 420
+      },
+      {
+        "bet_type": "ワイド",
+        "combination": [
+          8,
+          11
+        ],
+        "payout": 1010
+      },
+      {
+        "bet_type": "馬単",
+        "combination": [
+          1,
+          8
+        ],
+        "payout": 5210
+      },
+      {
+        "bet_type": "三連複",
+        "combination": [
+          1,
+          8,
+          11
+        ],
+        "payout": 4090
+      },
+      {
+        "bet_type": "三連単",
+        "combination": [
+          1,
+          8,
+          11
+        ],
+        "payout": 27080
+      }
+    ]
+  },
+  {
+    "race_id": "201644060611",
+    "race_name": "優駿スプリントトライ(3歳)",
+    "race_date": "2016-06-06",
+    "post_time": "20:15",
+    "venue": "不明",
+    "course_type": "ダート",
+    "distance": 1200,
+    "track_condition": "良",
+    "weather": "曇",
+    "entries": [
+      {
+        "horse_name": "イノデライト",
+        "jockey_name": "真島大輔",
+        "gate_number": 6,
+        "horse_number": 9,
+        "weight": 476,
+        "weight_change": -2,
+        "win_odds": 1.7
+      },
+      {
+        "horse_name": "ムサシトレジャー",
+        "jockey_name": "森泰斗",
+        "gate_number": 5,
+        "horse_number": 7,
+        "weight": 480,
+        "weight_change": -2,
+        "win_odds": 19.0
+      },
+      {
+        "horse_name": "ケイエスソード",
+        "jockey_name": "和田譲治",
+        "gate_number": 5,
+        "horse_number": 6,
+        "weight": 460,
+        "weight_change": 0,
+        "win_odds": 17.8
+      },
+      {
+        "horse_name": "タケショウメーカー",
+        "jockey_name": "山崎誠士",
+        "gate_number": 8,
+        "horse_number": 13,
+        "weight": 438,
+        "weight_change": -5,
+        "win_odds": 8.1
+      },
+      {
+        "horse_name": "ハーモニーブルラン",
+        "jockey_name": "矢野貴之",
+        "gate_number": 8,
+        "horse_number": 12,
+        "weight": 498,
+        "weight_change": 5,
+        "win_odds": 34.0
+      },
+      {
+        "horse_name": "リヴフォーエバー",
+        "jockey_name": "達城龍次",
+        "gate_number": 4,
+        "horse_number": 5,
+        "weight": 488,
+        "weight_change": 2,
+        "win_odds": 166.6
+      },
+      {
+        "horse_name": "ノーフォロワー",
+        "jockey_name": "今野忠成",
+        "gate_number": 3,
+        "horse_number": 3,
+        "weight": 464,
+        "weight_change": 5,
+        "win_odds": 45.7
+      },
+      {
+        "horse_name": "オウカランブ",
+        "jockey_name": "柏木健宏",
+        "gate_number": 7,
+        "horse_number": 10,
+        "weight": 463,
+        "weight_change": 6,
+        "win_odds": 8.5
+      },
+      {
+        "horse_name": "サトコンボク",
+        "jockey_name": "楢崎功祐",
+        "gate_number": 6,
+        "horse_number": 8,
+        "weight": 523,
+        "weight_change": -10,
+        "win_odds": 8.9
+      },
+      {
+        "horse_name": "ジュンサザンクロス",
+        "jockey_name": "笹川翼",
+        "gate_number": 4,
+        "horse_number": 4,
+        "weight": 489,
+        "weight_change": 2,
+        "win_odds": 20.2
+      },
+      {
+        "horse_name": "ヴェルミオン",
+        "jockey_name": "的場文男",
+        "gate_number": 7,
+        "horse_number": 11,
+        "weight": 507,
+        "weight_change": -2,
+        "win_odds": 12.2
+      },
+      {
+        "horse_name": "センペンバンカ",
+        "jockey_name": "江川伸幸",
+        "gate_number": 2,
+        "horse_number": 2,
+        "weight": 501,
+        "weight_change": 5,
+        "win_odds": 138.6
+      },
+      {
+        "horse_name": "クライフターン",
+        "jockey_name": "繁田健一",
+        "gate_number": 1,
+        "horse_number": 1,
+        "weight": 466,
+        "weight_change": -6,
+        "win_odds": 84.4
+      }
+    ],
+    "results": [
+      {
+        "horse_number": 9,
+        "finish_position": 1
+      },
+      {
+        "horse_number": 7,
+        "finish_position": 2
+      },
+      {
+        "horse_number": 6,
+        "finish_position": 3
+      },
+      {
+        "horse_number": 13,
+        "finish_position": 4
+      },
+      {
+        "horse_number": 12,
+        "finish_position": 5
+      },
+      {
+        "horse_number": 5,
+        "finish_position": 6
+      },
+      {
+        "horse_number": 3,
+        "finish_position": 7
+      },
+      {
+        "horse_number": 10,
+        "finish_position": 8
+      },
+      {
+        "horse_number": 8,
+        "finish_position": 9
+      },
+      {
+        "horse_number": 4,
+        "finish_position": 10
+      },
+      {
+        "horse_number": 11,
+        "finish_position": 11
+      },
+      {
+        "horse_number": 2,
+        "finish_position": 12
+      },
+      {
+        "horse_number": 1,
+        "finish_position": 13
+      }
+    ],
+    "payouts": [
+      {
+        "bet_type": "単勝",
+        "combination": [
+          9
+        ],
+        "payout": 170
+      },
+      {
+        "bet_type": "複勝",
+        "combination": [
+          9
+        ],
+        "payout": 130
+      },
+      {
+        "bet_type": "複勝",
+        "combination": [
+          7
+        ],
+        "payout": 400
+      },
+      {
+        "bet_type": "複勝",
+        "combination": [
+          6
+        ],
+        "payout": 380
+      },
+      {
+        "bet_type": "馬連",
+        "combination": [
+          7,
+          9
+        ],
+        "payout": 1290
+      },
+      {
+        "bet_type": "ワイド",
+        "combination": [
+          7,
+          9
+        ],
+        "payout": 470
+      },
+      {
+        "bet_type": "ワイド",
+        "combination": [
+          6,
+          9
+        ],
+        "payout": 760
+      },
+      {
+        "bet_type": "ワイド",
+        "combination": [
+          6,
+          7
+        ],
+        "payout": 2750
+      },
+      {
+        "bet_type": "馬単",
+        "combination": [
+          9,
+          7
+        ],
+        "payout": 1930
+      },
+      {
+        "bet_type": "三連複",
+        "combination": [
+          6,
+          7,
+          9
+        ],
+        "payout": 6370
+      },
+      {
+        "bet_type": "三連単",
+        "combination": [
+          9,
+          7,
+          6
+        ],
+        "payout": 21910
+      }
+    ]
+  },
+  {
+    "race_id": "201644060612",
+    "race_name": "ハッピーナイト賞競走(B3)",
+    "race_date": "2016-06-06",
+    "post_time": "20:50",
+    "venue": "不明",
+    "course_type": "ダート",
+    "distance": 1600,
+    "track_condition": "良",
+    "weather": "曇",
+    "entries": [
+      {
+        "horse_name": "ヴァイスヴァーサ",
+        "jockey_name": "的場文男",
+        "gate_number": 6,
+        "horse_number": 10,
+        "weight": 485,
+        "weight_change": 7,
+        "win_odds": 6.9
+      },
+      {
+        "horse_name": "スパイスフレイバー",
+        "jockey_name": "繁田健一",
+        "gate_number": 3,
+        "horse_number": 4,
+        "weight": 500,
+        "weight_change": 0,
+        "win_odds": 37.7
+      },
+      {
+        "horse_name": "シルキークィーン",
+        "jockey_name": "町田直希",
+        "gate_number": 1,
+        "horse_number": 1,
+        "weight": 477,
+        "weight_change": -3,
+        "win_odds": 48.4
+      },
+      {
+        "horse_name": "エイコースナイパー",
+        "jockey_name": "和田譲治",
+        "gate_number": 7,
+        "horse_number": 13,
+        "weight": 470,
+        "weight_change": -2,
+        "win_odds": 111.2
+      },
+      {
+        "horse_name": "タケノビワ",
+        "jockey_name": "柏木健宏",
+        "gate_number": 4,
+        "horse_number": 7,
+        "weight": 530,
+        "weight_change": 2,
+        "win_odds": 1.7
+      },
+      {
+        "horse_name": "ドラゴンカントリー",
+        "jockey_name": "瀬川将輝",
+        "gate_number": 2,
+        "horse_number": 3,
+        "weight": 518,
+        "weight_change": 8,
+        "win_odds": 12.9
+      },
+      {
+        "horse_name": "ポップレーベル",
+        "jockey_name": "笹川翼",
+        "gate_number": 8,
+        "horse_number": 14,
+        "weight": 522,
+        "weight_change": 4,
+        "win_odds": 22.5
+      },
+      {
+        "horse_name": "ミスアシング",
+        "jockey_name": "坂井英光",
+        "gate_number": 4,
+        "horse_number": 6,
+        "weight": 448,
+        "weight_change": -2,
+        "win_odds": 9.5
+      },
+      {
+        "horse_name": "ピエールペガサス",
+        "jockey_name": "真島大輔",
+        "gate_number": 5,
+        "horse_number": 9,
+        "weight": 479,
+        "weight_change": -7,
+        "win_odds": 24.7
+      },
+      {
+        "horse_name": "ミラノボヴィッチ",
+        "jockey_name": "瀧川寿希",
+        "gate_number": 5,
+        "horse_number": 8,
+        "weight": 495,
+        "weight_change": -8,
+        "win_odds": 92.0
+      },
+      {
+        "horse_name": "キタサンシンゲキ",
+        "jockey_name": "本田正重",
+        "gate_number": 8,
+        "horse_number": 15,
+        "weight": 488,
+        "weight_change": 1,
+        "win_odds": 82.9
+      },
+      {
+        "horse_name": "エッジクリフ",
+        "jockey_name": "安藤洋一",
+        "gate_number": 3,
+        "horse_number": 5,
+        "weight": 498,
+        "weight_change": -8,
+        "win_odds": 117.0
+      },
+      {
+        "horse_name": "ヒシサイレンス",
+        "jockey_name": "仲野光馬",
+        "gate_number": 7,
+        "horse_number": 12,
+        "weight": 461,
+        "weight_change": 3,
+        "win_odds": 65.4
+      },
+      {
+        "horse_name": "キングライデン",
+        "jockey_name": "有年淳",
+        "gate_number": 6,
+        "horse_number": 11,
+        "weight": 512,
+        "weight_change": 7,
+        "win_odds": 130.7
+      },
+      {
+        "horse_name": "ヒロノエンペラー",
+        "jockey_name": "矢野貴之",
+        "gate_number": 2,
+        "horse_number": 2,
+        "weight": 474,
+        "weight_change": 3,
+        "win_odds": 6.0
+      }
+    ],
+    "results": [
+      {
+        "horse_number": 10,
+        "finish_position": 1
+      },
+      {
+        "horse_number": 4,
+        "finish_position": 2
+      },
+      {
+        "horse_number": 1,
+        "finish_position": 3
+      },
+      {
+        "horse_number": 13,
+        "finish_position": 4
+      },
+      {
+        "horse_number": 7,
+        "finish_position": 5
+      },
+      {
+        "horse_number": 3,
+        "finish_position": 6
+      },
+      {
+        "horse_number": 14,
+        "finish_position": 7
+      },
+      {
+        "horse_number": 6,
+        "finish_position": 8
+      },
+      {
+        "horse_number": 9,
+        "finish_position": 9
+      },
+      {
+        "horse_number": 8,
+        "finish_position": 10
+      },
+      {
+        "horse_number": 15,
+        "finish_position": 11
+      },
+      {
+        "horse_number": 5,
+        "finish_position": 12
+      },
+      {
+        "horse_number": 12,
+        "finish_position": 13
+      },
+      {
+        "horse_number": 11,
+        "finish_position": 14
+      },
+      {
+        "horse_number": 2,
+        "finish_position": 15
+      }
+    ],
+    "payouts": [
+      {
+        "bet_type": "単勝",
+        "combination": [
+          10
+        ],
+        "payout": 690
+      },
+      {
+        "bet_type": "複勝",
+        "combination": [
+          10
+        ],
+        "payout": 290
+      },
+      {
+        "bet_type": "複勝",
+        "combination": [
+          4
+        ],
+        "payout": 750
+      },
+      {
+        "bet_type": "複勝",
+        "combination": [
+          1
+        ],
+        "payout": 760
+      },
+      {
+        "bet_type": "馬連",
+        "combination": [
+          4,
+          10
+        ],
+        "payout": 8200
+      },
+      {
+        "bet_type": "ワイド",
+        "combination": [
+          4,
+          10
+        ],
+        "payout": 2100
+      },
+      {
+        "bet_type": "ワイド",
+        "combination": [
+          1,
+          10
+        ],
+        "payout": 2530
+      },
+      {
+        "bet_type": "ワイド",
+        "combination": [
+          1,
+          4
+        ],
+        "payout": 7890
+      },
+      {
+        "bet_type": "馬単",
+        "combination": [
+          10,
+          4
+        ],
+        "payout": 12030
+      },
+      {
+        "bet_type": "三連複",
+        "combination": [
+          1,
+          4,
+          10
+        ],
+        "payout": 60610
+      },
+      {
+        "bet_type": "三連単",
+        "combination": [
+          10,
+          4,
+          1
+        ],
+        "payout": 236720
+      }
+    ]
+  },
+  {
+    "race_id": "201665060601",
+    "race_name": "2歳 Dー5",
+    "race_date": "2016-06-06",
+    "post_time": null,
+    "venue": "不明",
+    "course_type": "芝",
+    "distance": 0,
+    "track_condition": "良",
+    "weather": null,
+    "entries": [
+      {
+        "horse_name": "カチボシキング",
+        "jockey_name": "工藤篤",
+        "gate_number": 5,
+        "horse_number": 5,
+        "weight": 924,
+        "weight_change": 0,
+        "win_odds": 2.6
+      },
+      {
+        "horse_name": "シンエイトーコ",
+        "jockey_name": "菊池一樹",
+        "gate_number": 4,
+        "horse_number": 4,
+        "weight": 843,
+        "weight_change": 22,
+        "win_odds": 5.5
+      },
+      {
+        "horse_name": "コウシュハポロシリ",
+        "jockey_name": "西将太",
+        "gate_number": 2,
+        "horse_number": 2,
+        "weight": 898,
+        "weight_change": 6,
+        "win_odds": 4.9
+      },
+      {
+        "horse_name": "アアモンドテンカ",
+        "jockey_name": "鈴木恵介",
+        "gate_number": 1,
+        "horse_number": 1,
+        "weight": 802,
+        "weight_change": 0,
+        "win_odds": 5.8
+      },
+      {
+        "horse_name": "ユメヒカル",
+        "jockey_name": "西謙一",
+        "gate_number": 3,
+        "horse_number": 3,
+        "weight": 923,
+        "weight_change": 0,
+        "win_odds": 3.5
+      }
+    ],
+    "results": [
+      {
+        "horse_number": 5,
+        "finish_position": 1
+      },
+      {
+        "horse_number": 4,
+        "finish_position": 2
+      },
+      {
+        "horse_number": 2,
+        "finish_position": 3
+      },
+      {
+        "horse_number": 1,
+        "finish_position": 4
+      },
+      {
+        "horse_number": 3,
+        "finish_position": 5
+      }
+    ],
+    "payouts": [
+      {
+        "bet_type": "単勝",
+        "combination": [
+          5
+        ],
+        "payout": 260
+      },
+      {
+        "bet_type": "複勝",
+        "combination": [
+          5
+        ],
+        "payout": 140
+      },
+      {
+        "bet_type": "複勝",
+        "combination": [
+          4
+        ],
+        "payout": 320
+      },
+      {
+        "bet_type": "馬連",
+        "combination": [
+          4,
+          5
+        ],
+        "payout": 680
+      },
+      {
+        "bet_type": "ワイド",
+        "combination": [
+          4,
+          5
+        ],
+        "payout": 270
+      },
+      {
+        "bet_type": "ワイド",
+        "combination": [
+          2,
+          5
+        ],
+        "payout": 220
+      },
+      {
+        "bet_type": "ワイド",
+        "combination": [
+          2,
+          4
+        ],
+        "payout": 400
+      },
+      {
+        "bet_type": "馬単",
+        "combination": [
+          5,
+          4
+        ],
+        "payout": 1060
+      },
+      {
+        "bet_type": "三連複",
+        "combination": [
+          2,
+          4,
+          5
+        ],
+        "payout": 700
+      },
+      {
+        "bet_type": "三連単",
+        "combination": [
+          5,
+          4,
+          2
+        ],
+        "payout": 2840
+      }
+    ]
+  },
+  {
+    "race_id": "201665060602",
+    "race_name": "2歳 Dー4",
+    "race_date": "2016-06-06",
+    "post_time": null,
+    "venue": "不明",
+    "course_type": "芝",
+    "distance": 0,
+    "track_condition": "良",
+    "weather": null,
+    "entries": [
+      {
+        "horse_name": "ワタシノユメ",
+        "jockey_name": "藤本匠",
+        "gate_number": 3,
+        "horse_number": 3,
+        "weight": 777,
+        "weight_change": 17,
+        "win_odds": 2.5
+      },
+      {
+        "horse_name": "アサヒハクリュウ",
+        "jockey_name": "長澤幸太",
+        "gate_number": 1,
+        "horse_number": 1,
+        "weight": 793,
+        "weight_change": -2,
+        "win_odds": 3.0
+      },
+      {
+        "horse_name": "イワキビジン",
+        "jockey_name": "島津新",
+        "gate_number": 2,
+        "horse_number": 2,
+        "weight": 766,
+        "weight_change": 10,
+        "win_odds": 7.1
+      }
+    ],
+    "results": [
+      {
+        "horse_number": 3,
+        "finish_position": 1
+      },
+      {
+        "horse_number": 1,
+        "finish_position": 2
+      },
+      {
+        "horse_number": 2,
+        "finish_position": 3
+      }
+    ],
+    "payouts": [
+      {
+        "bet_type": "単勝",
+        "combination": [
+          3
+        ],
+        "payout": 250
+      },
+      {
+        "bet_type": "馬連",
+        "combination": [
+          1,
+          3
+        ],
+        "payout": 320
+      },
+      {
+        "bet_type": "ワイド",
+        "combination": [
+          1,
+          3
+        ],
+        "payout": 120
+      },
+      {
+        "bet_type": "ワイド",
+        "combination": [
+          2,
+          3
+        ],
+        "payout": 190
+      },
+      {
+        "bet_type": "ワイド",
+        "combination": [
+          1,
+          2
+        ],
+        "payout": 180
+      },
+      {
+        "bet_type": "馬単",
+        "combination": [
+          3,
+          1
+        ],
+        "payout": 480
+      },
+      {
+        "bet_type": "三連複",
+        "combination": [
+          1,
+          2,
+          3
+        ],
+        "payout": 480
+      },
+      {
+        "bet_type": "三連単",
+        "combination": [
+          3,
+          1,
+          2
+        ],
+        "payout": 1440
+      }
+    ]
+  },
+  {
+    "race_id": "201665060603",
+    "race_name": "2歳 新馬",
+    "race_date": "2016-06-06",
+    "post_time": null,
+    "venue": "不明",
+    "course_type": "芝",
+    "distance": 0,
+    "track_condition": "良",
+    "weather": null,
+    "entries": [
+      {
+        "horse_name": "タカシマミライ",
+        "jockey_name": "工藤篤",
+        "gate_number": 8,
+        "horse_number": 10,
+        "weight": 905,
+        "weight_change": 0,
+        "win_odds": 7.4
+      },
+      {
+        "horse_name": "コウシュハサマー",
+        "jockey_name": "藤本匠",
+        "gate_number": 8,
+        "horse_number": 9,
+        "weight": 963,
+        "weight_change": 0,
+        "win_odds": 4.0
+      },
+      {
+        "horse_name": "トモエハイセイコー",
+        "jockey_name": "西謙一",
+        "gate_number": 2,
+        "horse_number": 2,
+        "weight": 900,
+        "weight_change": 0,
+        "win_odds": 1.8
+      },
+      {
+        "horse_name": "ミノルブラック",
+        "jockey_name": "松田道明",
+        "gate_number": 1,
+        "horse_number": 1,
+        "weight": 823,
+        "weight_change": 0,
+        "win_odds": 27.1
+      },
+      {
+        "horse_name": "クリールスール",
+        "jockey_name": "渡来心路",
+        "gate_number": 7,
+        "horse_number": 8,
+        "weight": 761,
+        "weight_change": 0,
+        "win_odds": 50.0
+      },
+      {
+        "horse_name": "サカノタイトル",
+        "jockey_name": "菊池一樹",
+        "gate_number": 5,
+        "horse_number": 5,
+        "weight": 722,
+        "weight_change": 0,
+        "win_odds": 36.8
+      },
+      {
+        "horse_name": "アカリチャン",
+        "jockey_name": "阿部武臣",
+        "gate_number": 4,
+        "horse_number": 4,
+        "weight": 900,
+        "weight_change": 0,
+        "win_odds": 5.9
+      },
+      {
+        "horse_name": "ホクショウコスモ",
+        "jockey_name": "島津新",
+        "gate_number": 3,
+        "horse_number": 3,
+        "weight": 842,
+        "weight_change": 0,
+        "win_odds": 57.4
+      },
+      {
+        "horse_name": "プリンシパル",
+        "jockey_name": "鈴木恵介",
+        "gate_number": 6,
+        "horse_number": 6,
+        "weight": 727,
+        "weight_change": 0,
+        "win_odds": 25.5
+      }
+    ],
+    "results": [
+      {
+        "horse_number": 10,
+        "finish_position": 1
+      },
+      {
+        "horse_number": 9,
+        "finish_position": 2
+      },
+      {
+        "horse_number": 2,
+        "finish_position": 3
+      },
+      {
+        "horse_number": 1,
+        "finish_position": 4
+      },
+      {
+        "horse_number": 8,
+        "finish_position": 5
+      },
+      {
+        "horse_number": 5,
+        "finish_position": 6
+      },
+      {
+        "horse_number": 4,
+        "finish_position": 7
+      },
+      {
+        "horse_number": 3,
+        "finish_position": 8
+      },
+      {
+        "horse_number": 6,
+        "finish_position": 9
+      }
+    ],
+    "payouts": [
+      {
+        "bet_type": "単勝",
+        "combination": [
+          10
+        ],
+        "payout": 740
+      },
+      {
+        "bet_type": "複勝",
+        "combination": [
+          10
+        ],
+        "payout": 100
+      },
+      {
+        "bet_type": "複勝",
+        "combination": [
+          9
+        ],
+        "payout": 120
+      },
+      {
+        "bet_type": "複勝",
+        "combination": [
+          2
+        ],
+        "payout": 100
+      },
+      {
+        "bet_type": "馬連",
+        "combination": [
+          9,
+          10
+        ],
+        "payout": 870
+      },
+      {
+        "bet_type": "ワイド",
+        "combination": [
+          9,
+          10
+        ],
+        "payout": 300
+      },
+      {
+        "bet_type": "ワイド",
+        "combination": [
+          2,
+          10
+        ],
+        "payout": 210
+      },
+      {
+        "bet_type": "ワイド",
+        "combination": [
+          2,
+          9
+        ],
+        "payout": 160
+      },
+      {
+        "bet_type": "馬単",
+        "combination": [
+          10,
+          9
+        ],
+        "payout": 1670
+      },
+      {
+        "bet_type": "三連複",
+        "combination": [
+          2,
+          9,
+          10
+        ],
+        "payout": 360
+      },
+      {
+        "bet_type": "三連単",
+        "combination": [
+          10,
+          9,
+          2
+        ],
+        "payout": 2780
+      }
+    ]
+  },
+  {
+    "race_id": "201665060604",
+    "race_name": "2歳 Dー2",
+    "race_date": "2016-06-06",
+    "post_time": null,
+    "venue": "不明",
+    "course_type": "芝",
+    "distance": 0,
+    "track_condition": "良",
+    "weather": null,
+    "entries": [
+      {
+        "horse_name": "フナノフェアリー",
+        "jockey_name": "松田道明",
+        "gate_number": 6,
+        "horse_number": 6,
+        "weight": 845,
+        "weight_change": 8,
+        "win_odds": 24.8
+      },
+      {
+        "horse_name": "シロジョテイ",
+        "jockey_name": "藤本匠",
+        "gate_number": 7,
+        "horse_number": 7,
+        "weight": 921,
+        "weight_change": 31,
+        "win_odds": 15.8
+      },
+      {
+        "horse_name": "コマノダイジン",
+        "jockey_name": "西謙一",
+        "gate_number": 5,
+        "horse_number": 5,
+        "weight": 852,
+        "weight_change": 33,
+        "win_odds": 5.1
+      },
+      {
+        "horse_name": "メヂカラ",
+        "jockey_name": "船山蔵人",
+        "gate_number": 2,
+        "horse_number": 2,
+        "weight": 883,
+        "weight_change": 26,
+        "win_odds": 4.6
+      },
+      {
+        "horse_name": "ホクトリュウセイ",
+        "jockey_name": "尾ヶ瀬馨",
+        "gate_number": 8,
+        "horse_number": 9,
+        "weight": 852,
+        "weight_change": 20,
+        "win_odds": 2.5
+      },
+      {
+        "horse_name": "メムロショウエイ",
+        "jockey_name": "阿部武臣",
+        "gate_number": 1,
+        "horse_number": 1,
+        "weight": 864,
+        "weight_change": 15,
+        "win_odds": 68.0
+      },
+      {
+        "horse_name": "ゴールドラッシュ",
+        "jockey_name": "長澤幸太",
+        "gate_number": 3,
+        "horse_number": 3,
+        "weight": 875,
+        "weight_change": 31,
+        "win_odds": 5.3
+      },
+      {
+        "horse_name": "ハルマボーイ",
+        "jockey_name": "西将太",
+        "gate_number": 8,
+        "horse_number": 10,
+        "weight": 824,
+        "weight_change": 0,
+        "win_odds": 35.5
+      },
+      {
+        "horse_name": "ミヤビチャン",
+        "jockey_name": "工藤篤",
+        "gate_number": 4,
+        "horse_number": 4,
+        "weight": 869,
+        "weight_change": -8,
+        "win_odds": 28.6
+      },
+      {
+        "horse_name": "ホワイトコブラ",
+        "jockey_name": "大河原和雄",
+        "gate_number": 7,
+        "horse_number": 8,
+        "weight": 892,
+        "weight_change": 16,
+        "win_odds": 12.3
+      }
+    ],
+    "results": [
+      {
+        "horse_number": 6,
+        "finish_position": 1
+      },
+      {
+        "horse_number": 7,
+        "finish_position": 2
+      },
+      {
+        "horse_number": 5,
+        "finish_position": 3
+      },
+      {
+        "horse_number": 2,
+        "finish_position": 4
+      },
+      {
+        "horse_number": 9,
+        "finish_position": 5
+      },
+      {
+        "horse_number": 1,
+        "finish_position": 6
+      },
+      {
+        "horse_number": 3,
+        "finish_position": 7
+      },
+      {
+        "horse_number": 10,
+        "finish_position": 8
+      },
+      {
+        "horse_number": 4,
+        "finish_position": 9
+      },
+      {
+        "horse_number": 8,
+        "finish_position": 10
+      }
+    ],
+    "payouts": [
+      {
+        "bet_type": "単勝",
+        "combination": [
+          6
+        ],
+        "payout": 2480
+      },
+      {
+        "bet_type": "複勝",
+        "combination": [
+          6
+        ],
+        "payout": 270
+      },
+      {
+        "bet_type": "複勝",
+        "combination": [
+          7
+        ],
+        "payout": 290
+      },
+      {
+        "bet_type": "複勝",
+        "combination": [
+          5
+        ],
+        "payout": 200
+      },
+      {
+        "bet_type": "馬連",
+        "combination": [
+          6,
+          7
+        ],
+        "payout": 6900
+      },
+      {
+        "bet_type": "ワイド",
+        "combination": [
+          6,
+          7
+        ],
+        "payout": 1850
+      },
+      {
+        "bet_type": "ワイド",
+        "combination": [
+          5,
+          6
+        ],
+        "payout": 900
+      },
+      {
+        "bet_type": "ワイド",
+        "combination": [
+          5,
+          7
+        ],
+        "payout": 630
+      },
+      {
+        "bet_type": "馬単",
+        "combination": [
+          6,
+          7
+        ],
+        "payout": 6890
+      },
+      {
+        "bet_type": "三連複",
+        "combination": [
+          5,
+          6,
+          7
+        ],
+        "payout": 10720
+      },
+      {
+        "bet_type": "三連単",
+        "combination": [
+          6,
+          7,
+          5
+        ],
+        "payout": 55350
+      }
+    ]
+  },
+  {
+    "race_id": "201665060605",
+    "race_name": "ねずみ杯福岡から旅行",
+    "race_date": "2016-06-06",
+    "post_time": null,
+    "venue": "不明",
+    "course_type": "芝",
+    "distance": 0,
+    "track_condition": "良",
+    "weather": null,
+    "entries": [
+      {
+        "horse_name": "シンエイハナコ",
+        "jockey_name": "西将太",
+        "gate_number": 2,
+        "horse_number": 2,
+        "weight": 936,
+        "weight_change": 11,
+        "win_odds": 3.2
+      },
+      {
+        "horse_name": "ニューイチオク",
+        "jockey_name": "阿部武臣",
+        "gate_number": 5,
+        "horse_number": 5,
+        "weight": 954,
+        "weight_change": -5,
+        "win_odds": 2.1
+      },
+      {
+        "horse_name": "アトムボンバー",
+        "jockey_name": "船山蔵人",
+        "gate_number": 8,
+        "horse_number": 9,
+        "weight": 867,
+        "weight_change": 27,
+        "win_odds": 22.2
+      },
+      {
+        "horse_name": "コムヒカリ",
+        "jockey_name": "中山直樹",
+        "gate_number": 8,
+        "horse_number": 8,
+        "weight": 883,
+        "weight_change": -32,
+        "win_odds": 12.7
+      },
+      {
+        "horse_name": "マタコイヨ",
+        "jockey_name": "舘澤直央",
+        "gate_number": 4,
+        "horse_number": 4,
+        "weight": 818,
+        "weight_change": -3,
+        "win_odds": 42.4
+      },
+      {
+        "horse_name": "アグリモエ",
+        "jockey_name": "村上章",
+        "gate_number": 7,
+        "horse_number": 7,
+        "weight": 979,
+        "weight_change": -12,
+        "win_odds": 25.8
+      },
+      {
+        "horse_name": "サクラユメチヨ",
+        "jockey_name": "山本正彦",
+        "gate_number": 1,
+        "horse_number": 1,
+        "weight": 923,
+        "weight_change": 1,
+        "win_odds": 52.5
+      },
+      {
+        "horse_name": "エンポリオ",
+        "jockey_name": "鈴木恵介",
+        "gate_number": 6,
+        "horse_number": 6,
+        "weight": 942,
+        "weight_change": 9,
+        "win_odds": 6.8
+      },
+      {
+        "horse_name": "ツガルセンプー",
+        "jockey_name": "西謙一",
+        "gate_number": 3,
+        "horse_number": 3,
+        "weight": 907,
+        "weight_change": -39,
+        "win_odds": 8.3
+      }
+    ],
+    "results": [
+      {
+        "horse_number": 2,
+        "finish_position": 1
+      },
+      {
+        "horse_number": 5,
+        "finish_position": 2
+      },
+      {
+        "horse_number": 9,
+        "finish_position": 3
+      },
+      {
+        "horse_number": 8,
+        "finish_position": 4
+      },
+      {
+        "horse_number": 4,
+        "finish_position": 5
+      },
+      {
+        "horse_number": 7,
+        "finish_position": 6
+      },
+      {
+        "horse_number": 1,
+        "finish_position": 7
+      },
+      {
+        "horse_number": 6,
+        "finish_position": 8
+      },
+      {
+        "horse_number": 3,
+        "finish_position": 9
+      }
+    ],
+    "payouts": [
+      {
+        "bet_type": "単勝",
+        "combination": [
+          2
+        ],
+        "payout": 320
+      },
+      {
+        "bet_type": "複勝",
+        "combination": [
+          2
+        ],
+        "payout": 150
+      },
+      {
+        "bet_type": "複勝",
+        "combination": [
+          5
+        ],
+        "payout": 130
+      },
+      {
+        "bet_type": "複勝",
+        "combination": [
+          9
+        ],
+        "payout": 320
+      },
+      {
+        "bet_type": "馬連",
+        "combination": [
+          2,
+          5
+        ],
+        "payout": 330
+      },
+      {
+        "bet_type": "ワイド",
+        "combination": [
+          2,
+          5
+        ],
+        "payout": 190
+      },
+      {
+        "bet_type": "ワイド",
+        "combination": [
+          2,
+          9
+        ],
+        "payout": 510
+      },
+      {
+        "bet_type": "ワイド",
+        "combination": [
+          5,
+          9
+        ],
+        "payout": 1060
+      },
+      {
+        "bet_type": "馬単",
+        "combination": [
+          2,
+          5
+        ],
+        "payout": 870
+      },
+      {
+        "bet_type": "三連複",
+        "combination": [
+          2,
+          5,
+          9
+        ],
+        "payout": 2250
+      },
+      {
+        "bet_type": "三連単",
+        "combination": [
+          2,
+          5,
+          9
+        ],
+        "payout": 9270
+      }
+    ]
+  },
+  {
+    "race_id": "201665060606",
+    "race_name": "第22回楽天競馬ばん",
+    "race_date": "2016-06-06",
+    "post_time": null,
+    "venue": "不明",
+    "course_type": "芝",
+    "distance": 0,
+    "track_condition": "良",
+    "weather": null,
+    "entries": [
+      {
+        "horse_name": "アアモンドネムロ",
+        "jockey_name": "阿部武臣",
+        "gate_number": 2,
+        "horse_number": 2,
+        "weight": 1065,
+        "weight_change": 32,
+        "win_odds": 4.6
+      },
+      {
+        "horse_name": "テンリュウフジ",
+        "jockey_name": "竹ケ原茉耶",
+        "gate_number": 7,
+        "horse_number": 7,
+        "weight": 922,
+        "weight_change": 19,
+        "win_odds": 6.0
+      },
+      {
+        "horse_name": "プリンセスサラ",
+        "jockey_name": "西将太",
+        "gate_number": 4,
+        "horse_number": 4,
+        "weight": 934,
+        "weight_change": 6,
+        "win_odds": 20.7
+      },
+      {
+        "horse_name": "イキルミチ",
+        "jockey_name": "船山蔵人",
+        "gate_number": 8,
+        "horse_number": 9,
+        "weight": 1039,
+        "weight_change": -5,
+        "win_odds": 4.5
+      },
+      {
+        "horse_name": "スギヤマ",
+        "jockey_name": "松田道明",
+        "gate_number": 3,
+        "horse_number": 3,
+        "weight": 875,
+        "weight_change": 4,
+        "win_odds": 4.4
+      },
+      {
+        "horse_name": "ホクトノホシ",
+        "jockey_name": "尾ヶ瀬馨",
+        "gate_number": 5,
+        "horse_number": 5,
+        "weight": 976,
+        "weight_change": 1,
+        "win_odds": 3.9
+      },
+      {
+        "horse_name": "タカラファミリー",
+        "jockey_name": "大河原和雄",
+        "gate_number": 1,
+        "horse_number": 1,
+        "weight": 927,
+        "weight_change": 16,
+        "win_odds": 8.9
+      },
+      {
+        "horse_name": "キンリュウザン",
+        "jockey_name": "工藤篤",
+        "gate_number": 8,
+        "horse_number": 8,
+        "weight": 972,
+        "weight_change": -2,
+        "win_odds": 64.7
+      }
+    ],
+    "results": [
+      {
+        "horse_number": 2,
+        "finish_position": 1
+      },
+      {
+        "horse_number": 7,
+        "finish_position": 2
+      },
+      {
+        "horse_number": 4,
+        "finish_position": 3
+      },
+      {
+        "horse_number": 9,
+        "finish_position": 4
+      },
+      {
+        "horse_number": 3,
+        "finish_position": 5
+      },
+      {
+        "horse_number": 5,
+        "finish_position": 6
+      },
+      {
+        "horse_number": 1,
+        "finish_position": 7
+      },
+      {
+        "horse_number": 8,
+        "finish_position": 8
+      }
+    ],
+    "payouts": [
+      {
+        "bet_type": "単勝",
+        "combination": [
+          2
+        ],
+        "payout": 460
+      },
+      {
+        "bet_type": "複勝",
+        "combination": [
+          2
+        ],
+        "payout": 280
+      },
+      {
+        "bet_type": "複勝",
+        "combination": [
+          7
+        ],
+        "payout": 280
+      },
+      {
+        "bet_type": "複勝",
+        "combination": [
+          4
+        ],
+        "payout": 730
+      },
+      {
+        "bet_type": "馬連",
+        "combination": [
+          2,
+          7
+        ],
+        "payout": 2200
+      },
+      {
+        "bet_type": "ワイド",
+        "combination": [
+          2,
+          7
+        ],
+        "payout": 760
+      },
+      {
+        "bet_type": "ワイド",
+        "combination": [
+          2,
+          4
+        ],
+        "payout": 1280
+      },
+      {
+        "bet_type": "ワイド",
+        "combination": [
+          4,
+          7
+        ],
+        "payout": 1690
+      },
+      {
+        "bet_type": "馬単",
+        "combination": [
+          2,
+          7
+        ],
+        "payout": 3890
+      },
+      {
+        "bet_type": "三連複",
+        "combination": [
+          2,
+          4,
+          7
+        ],
+        "payout": 7120
+      },
+      {
+        "bet_type": "三連単",
+        "combination": [
+          2,
+          7,
+          4
+        ],
+        "payout": 32410
+      }
+    ]
+  },
+  {
+    "race_id": "201665060607",
+    "race_name": "B4ー7",
+    "race_date": "2016-06-06",
+    "post_time": null,
+    "venue": "不明",
+    "course_type": "芝",
+    "distance": 0,
+    "track_condition": "良",
+    "weather": null,
+    "entries": [
+      {
+        "horse_name": "マルミゴウカイ",
+        "jockey_name": "鈴木恵介",
+        "gate_number": 2,
+        "horse_number": 2,
+        "weight": 975,
+        "weight_change": 10,
+        "win_odds": 1.3
+      },
+      {
+        "horse_name": "スナイパー",
+        "jockey_name": "藤本匠",
+        "gate_number": 1,
+        "horse_number": 1,
+        "weight": 1023,
+        "weight_change": -15,
+        "win_odds": 4.3
+      },
+      {
+        "horse_name": "ヒデヨシ",
+        "jockey_name": "菊池一樹",
+        "gate_number": 5,
+        "horse_number": 5,
+        "weight": 1044,
+        "weight_change": 2,
+        "win_odds": 8.5
+      },
+      {
+        "horse_name": "ヨシノエイスケ",
+        "jockey_name": "島津新",
+        "gate_number": 6,
+        "horse_number": 6,
+        "weight": 1032,
+        "weight_change": 3,
+        "win_odds": 11.3
+      },
+      {
+        "horse_name": "ヒラニワ",
+        "jockey_name": "大河原和雄",
+        "gate_number": 4,
+        "horse_number": 4,
+        "weight": 1035,
+        "weight_change": -10,
+        "win_odds": 21.4
+      },
+      {
+        "horse_name": "セトノケンブチ",
+        "jockey_name": "長澤幸太",
+        "gate_number": 3,
+        "horse_number": 3,
+        "weight": 908,
+        "weight_change": 2,
+        "win_odds": 50.5
+      }
+    ],
+    "results": [
+      {
+        "horse_number": 2,
+        "finish_position": 1
+      },
+      {
+        "horse_number": 1,
+        "finish_position": 2
+      },
+      {
+        "horse_number": 5,
+        "finish_position": 3
+      },
+      {
+        "horse_number": 6,
+        "finish_position": 4
+      },
+      {
+        "horse_number": 4,
+        "finish_position": 5
+      },
+      {
+        "horse_number": 3,
+        "finish_position": 6
+      }
+    ],
+    "payouts": [
+      {
+        "bet_type": "単勝",
+        "combination": [
+          2
+        ],
+        "payout": 130
+      },
+      {
+        "bet_type": "複勝",
+        "combination": [
+          2
+        ],
+        "payout": 100
+      },
+      {
+        "bet_type": "複勝",
+        "combination": [
+          1
+        ],
+        "payout": 140
+      },
+      {
+        "bet_type": "馬連",
+        "combination": [
+          1,
+          2
+        ],
+        "payout": 190
+      },
+      {
+        "bet_type": "ワイド",
+        "combination": [
+          1,
+          2
+        ],
+        "payout": 120
+      },
+      {
+        "bet_type": "ワイド",
+        "combination": [
+          2,
+          5
+        ],
+        "payout": 130
+      },
+      {
+        "bet_type": "ワイド",
+        "combination": [
+          1,
+          5
+        ],
+        "payout": 190
+      },
+      {
+        "bet_type": "馬単",
+        "combination": [
+          2,
+          1
+        ],
+        "payout": 230
+      },
+      {
+        "bet_type": "三連複",
+        "combination": [
+          1,
+          2,
+          5
+        ],
+        "payout": 180
+      },
+      {
+        "bet_type": "三連単",
+        "combination": [
+          2,
+          1,
+          5
+        ],
+        "payout": 510
+      }
+    ]
+  },
+  {
+    "race_id": "201665060608",
+    "race_name": "秋山殿の誕生日最高だ",
+    "race_date": "2016-06-06",
+    "post_time": null,
+    "venue": "不明",
+    "course_type": "芝",
+    "distance": 0,
+    "track_condition": "良",
+    "weather": null,
+    "entries": [
+      {
+        "horse_name": "ノボリリュウセイ",
+        "jockey_name": "舘澤直央",
+        "gate_number": 6,
+        "horse_number": 6,
+        "weight": 1021,
+        "weight_change": 9,
+        "win_odds": 3.4
+      },
+      {
+        "horse_name": "カネミトップ",
+        "jockey_name": "松田道明",
+        "gate_number": 7,
+        "horse_number": 7,
+        "weight": 1040,
+        "weight_change": 4,
+        "win_odds": 7.2
+      },
+      {
+        "horse_name": "ロマンチック",
+        "jockey_name": "尾ヶ瀬馨",
+        "gate_number": 1,
+        "horse_number": 1,
+        "weight": 898,
+        "weight_change": -10,
+        "win_odds": 3.2
+      },
+      {
+        "horse_name": "マルオユタカ",
+        "jockey_name": "中山直樹",
+        "gate_number": 3,
+        "horse_number": 3,
+        "weight": 979,
+        "weight_change": 8,
+        "win_odds": 17.5
+      },
+      {
+        "horse_name": "テシオキャップ",
+        "jockey_name": "西将太",
+        "gate_number": 5,
+        "horse_number": 5,
+        "weight": 1073,
+        "weight_change": 18,
+        "win_odds": 2.3
+      },
+      {
+        "horse_name": "アカフジ",
+        "jockey_name": "菊池一樹",
+        "gate_number": 2,
+        "horse_number": 2,
+        "weight": 960,
+        "weight_change": -1,
+        "win_odds": 42.4
+      }
+    ],
+    "results": [
+      {
+        "horse_number": 6,
+        "finish_position": 1
+      },
+      {
+        "horse_number": 7,
+        "finish_position": 2
+      },
+      {
+        "horse_number": 1,
+        "finish_position": 3
+      },
+      {
+        "horse_number": 3,
+        "finish_position": 4
+      },
+      {
+        "horse_number": 5,
+        "finish_position": 5
+      },
+      {
+        "horse_number": 2,
+        "finish_position": 6
+      }
+    ],
+    "payouts": [
+      {
+        "bet_type": "単勝",
+        "combination": [
+          6
+        ],
+        "payout": 340
+      },
+      {
+        "bet_type": "複勝",
+        "combination": [
+          6
+        ],
+        "payout": 150
+      },
+      {
+        "bet_type": "複勝",
+        "combination": [
+          7
+        ],
+        "payout": 250
+      },
+      {
+        "bet_type": "馬連",
+        "combination": [
+          6,
+          7
+        ],
+        "payout": 1060
+      },
+      {
+        "bet_type": "ワイド",
+        "combination": [
+          6,
+          7
+        ],
+        "payout": 330
+      },
+      {
+        "bet_type": "ワイド",
+        "combination": [
+          1,
+          6
+        ],
+        "payout": 200
+      },
+      {
+        "bet_type": "ワイド",
+        "combination": [
+          1,
+          7
+        ],
+        "payout": 440
+      },
+      {
+        "bet_type": "馬単",
+        "combination": [
+          6,
+          7
+        ],
+        "payout": 1600
+      },
+      {
+        "bet_type": "三連複",
+        "combination": [
+          1,
+          6,
+          7
+        ],
+        "payout": 910
+      },
+      {
+        "bet_type": "三連単",
+        "combination": [
+          6,
+          7,
+          1
+        ],
+        "payout": 4870
+      }
+    ]
+  },
+  {
+    "race_id": "201665060609",
+    "race_name": "B3ー4",
+    "race_date": "2016-06-06",
+    "post_time": null,
+    "venue": "不明",
+    "course_type": "芝",
+    "distance": 0,
+    "track_condition": "良",
+    "weather": null,
+    "entries": [
+      {
+        "horse_name": "メムロコマチ",
+        "jockey_name": "西謙一",
+        "gate_number": 3,
+        "horse_number": 3,
+        "weight": 1076,
+        "weight_change": 12,
+        "win_odds": 3.2
+      },
+      {
+        "horse_name": "ヒメマルクィーン",
+        "jockey_name": "西将太",
+        "gate_number": 7,
+        "horse_number": 7,
+        "weight": 931,
+        "weight_change": 1,
+        "win_odds": 18.0
+      },
+      {
+        "horse_name": "キタノオージャ",
+        "jockey_name": "菊池一樹",
+        "gate_number": 2,
+        "horse_number": 2,
+        "weight": 1104,
+        "weight_change": 4,
+        "win_odds": 3.8
+      },
+      {
+        "horse_name": "フレグランス",
+        "jockey_name": "工藤篤",
+        "gate_number": 5,
+        "horse_number": 5,
+        "weight": 1087,
+        "weight_change": 10,
+        "win_odds": 3.3
+      },
+      {
+        "horse_name": "ツガルノウンカイ",
+        "jockey_name": "鈴木恵介",
+        "gate_number": 4,
+        "horse_number": 4,
+        "weight": 1101,
+        "weight_change": -8,
+        "win_odds": 7.7
+      },
+      {
+        "horse_name": "ミヤビライズ",
+        "jockey_name": "尾ヶ瀬馨",
+        "gate_number": 8,
+        "horse_number": 8,
+        "weight": 1093,
+        "weight_change": 8,
+        "win_odds": 75.0
+      },
+      {
+        "horse_name": "ブラックシシ",
+        "jockey_name": "藤本匠",
+        "gate_number": 1,
+        "horse_number": 1,
+        "weight": 1106,
+        "weight_change": -5,
+        "win_odds": 6.1
+      },
+      {
+        "horse_name": "ユウユウヨーイドン",
+        "jockey_name": "阿部武臣",
+        "gate_number": 6,
+        "horse_number": 6,
+        "weight": 966,
+        "weight_change": 2,
+        "win_odds": 39.0
+      }
+    ],
+    "results": [
+      {
+        "horse_number": 3,
+        "finish_position": 1
+      },
+      {
+        "horse_number": 7,
+        "finish_position": 2
+      },
+      {
+        "horse_number": 2,
+        "finish_position": 3
+      },
+      {
+        "horse_number": 5,
+        "finish_position": 4
+      },
+      {
+        "horse_number": 4,
+        "finish_position": 5
+      },
+      {
+        "horse_number": 8,
+        "finish_position": 6
+      },
+      {
+        "horse_number": 1,
+        "finish_position": 7
+      },
+      {
+        "horse_number": 6,
+        "finish_position": 8
+      }
+    ],
+    "payouts": [
+      {
+        "bet_type": "単勝",
+        "combination": [
+          3
+        ],
+        "payout": 320
+      },
+      {
+        "bet_type": "複勝",
+        "combination": [
+          3
+        ],
+        "payout": 170
+      },
+      {
+        "bet_type": "複勝",
+        "combination": [
+          7
+        ],
+        "payout": 270
+      },
+      {
+        "bet_type": "複勝",
+        "combination": [
+          2
+        ],
+        "payout": 180
+      },
+      {
+        "bet_type": "馬連",
+        "combination": [
+          3,
+          7
+        ],
+        "payout": 2700
+      },
+      {
+        "bet_type": "ワイド",
+        "combination": [
+          3,
+          7
+        ],
+        "payout": 630
+      },
+      {
+        "bet_type": "ワイド",
+        "combination": [
+          2,
+          3
+        ],
+        "payout": 380
+      },
+      {
+        "bet_type": "ワイド",
+        "combination": [
+          2,
+          7
+        ],
+        "payout": 1350
+      },
+      {
+        "bet_type": "馬単",
+        "combination": [
+          3,
+          7
+        ],
+        "payout": 4650
+      },
+      {
+        "bet_type": "三連複",
+        "combination": [
+          2,
+          3,
+          7
+        ],
+        "payout": 5120
+      },
+      {
+        "bet_type": "三連単",
+        "combination": [
+          3,
+          7,
+          2
+        ],
+        "payout": 50640
+      }
+    ]
+  },
+  {
+    "race_id": "201665060610",
+    "race_name": "太平洋興発杯ライラッ(4歳)",
+    "race_date": "2016-06-06",
+    "post_time": null,
+    "venue": "不明",
+    "course_type": "芝",
+    "distance": 0,
+    "track_condition": "良",
+    "weather": null,
+    "entries": [
+      {
+        "horse_name": "アスリート",
+        "jockey_name": "大河原和雄",
+        "gate_number": 6,
+        "horse_number": 6,
+        "weight": 1049,
+        "weight_change": -10,
+        "win_odds": 3.3
+      },
+      {
+        "horse_name": "コウリキ",
+        "jockey_name": "西謙一",
+        "gate_number": 2,
+        "horse_number": 2,
+        "weight": 978,
+        "weight_change": 9,
+        "win_odds": 9.6
+      },
+      {
+        "horse_name": "タキニシサンデー",
+        "jockey_name": "西将太",
+        "gate_number": 5,
+        "horse_number": 5,
+        "weight": 1019,
+        "weight_change": 25,
+        "win_odds": 3.2
+      },
+      {
+        "horse_name": "バウンティハンター",
+        "jockey_name": "阿部武臣",
+        "gate_number": 8,
+        "horse_number": 8,
+        "weight": 1069,
+        "weight_change": 8,
+        "win_odds": 3.7
+      },
+      {
+        "horse_name": "キタノレッドルビー",
+        "jockey_name": "工藤篤",
+        "gate_number": 7,
+        "horse_number": 7,
+        "weight": 1035,
+        "weight_change": 6,
+        "win_odds": 19.1
+      },
+      {
+        "horse_name": "キンメダル",
+        "jockey_name": "鈴木恵介",
+        "gate_number": 1,
+        "horse_number": 1,
+        "weight": 1066,
+        "weight_change": -23,
+        "win_odds": 9.1
+      },
+      {
+        "horse_name": "イノリノチカラ",
+        "jockey_name": "船山蔵人",
+        "gate_number": 3,
+        "horse_number": 3,
+        "weight": 1059,
+        "weight_change": -10,
+        "win_odds": 9.8
+      },
+      {
+        "horse_name": "アアモンドロシア",
+        "jockey_name": "松田道明",
+        "gate_number": 4,
+        "horse_number": 4,
+        "weight": 1003,
+        "weight_change": 10,
+        "win_odds": 54.6
+      }
+    ],
+    "results": [
+      {
+        "horse_number": 6,
+        "finish_position": 1
+      },
+      {
+        "horse_number": 2,
+        "finish_position": 2
+      },
+      {
+        "horse_number": 5,
+        "finish_position": 3
+      },
+      {
+        "horse_number": 8,
+        "finish_position": 4
+      },
+      {
+        "horse_number": 7,
+        "finish_position": 5
+      },
+      {
+        "horse_number": 1,
+        "finish_position": 6
+      },
+      {
+        "horse_number": 3,
+        "finish_position": 7
+      },
+      {
+        "horse_number": 4,
+        "finish_position": 8
+      }
+    ],
+    "payouts": [
+      {
+        "bet_type": "単勝",
+        "combination": [
+          6
+        ],
+        "payout": 330
+      },
+      {
+        "bet_type": "複勝",
+        "combination": [
+          6
+        ],
+        "payout": 170
+      },
+      {
+        "bet_type": "複勝",
+        "combination": [
+          2
+        ],
+        "payout": 320
+      },
+      {
+        "bet_type": "複勝",
+        "combination": [
+          5
+        ],
+        "payout": 140
+      },
+      {
+        "bet_type": "馬連",
+        "combination": [
+          2,
+          6
+        ],
+        "payout": 1720
+      },
+      {
+        "bet_type": "ワイド",
+        "combination": [
+          2,
+          6
+        ],
+        "payout": 730
+      },
+      {
+        "bet_type": "ワイド",
+        "combination": [
+          5,
+          6
+        ],
+        "payout": 220
+      },
+      {
+        "bet_type": "ワイド",
+        "combination": [
+          2,
+          5
+        ],
+        "payout": 540
+      },
+      {
+        "bet_type": "馬単",
+        "combination": [
+          6,
+          2
+        ],
+        "payout": 1990
+      },
+      {
+        "bet_type": "三連複",
+        "combination": [
+          2,
+          5,
+          6
+        ],
+        "payout": 1160
+      },
+      {
+        "bet_type": "三連単",
+        "combination": [
+          6,
+          2,
+          5
+        ],
+        "payout": 6650
+      }
+    ]
+  },
+  {
+    "race_id": "201665060611",
+    "race_name": "B1・B",
+    "race_date": "2016-06-06",
+    "post_time": null,
+    "venue": "不明",
+    "course_type": "芝",
+    "distance": 0,
+    "track_condition": "良",
+    "weather": null,
+    "entries": [
+      {
+        "horse_name": "カツオーカン",
+        "jockey_name": "赤塚健仁",
+        "gate_number": 8,
+        "horse_number": 9,
+        "weight": 1071,
+        "weight_change": -3,
+        "win_odds": 3.9
+      },
+      {
+        "horse_name": "ツルマキイチバン",
+        "jockey_name": "松田道明",
+        "gate_number": 6,
+        "horse_number": 6,
+        "weight": 994,
+        "weight_change": 0,
+        "win_odds": 29.1
+      },
+      {
+        "horse_name": "コウシュハクィーン",
+        "jockey_name": "大河原和雄",
+        "gate_number": 2,
+        "horse_number": 2,
+        "weight": 1011,
+        "weight_change": 4,
+        "win_odds": 5.8
+      },
+      {
+        "horse_name": "センゴクイチ",
+        "jockey_name": "西謙一",
+        "gate_number": 5,
+        "horse_number": 5,
+        "weight": 1028,
+        "weight_change": 2,
+        "win_odds": 3.9
+      },
+      {
+        "horse_name": "スギノハリアー",
+        "jockey_name": "菊池一樹",
+        "gate_number": 1,
+        "horse_number": 1,
+        "weight": 1108,
+        "weight_change": 21,
+        "win_odds": 3.7
+      },
+      {
+        "horse_name": "ミタコトナイ",
+        "jockey_name": "鈴木恵介",
+        "gate_number": 7,
+        "horse_number": 7,
+        "weight": 1055,
+        "weight_change": 13,
+        "win_odds": 9.2
+      },
+      {
+        "horse_name": "ハイセイウン",
+        "jockey_name": "中山直樹",
+        "gate_number": 3,
+        "horse_number": 3,
+        "weight": 1040,
+        "weight_change": 8,
+        "win_odds": 10.4
+      },
+      {
+        "horse_name": "ミツボシ",
+        "jockey_name": "長澤幸太",
+        "gate_number": 4,
+        "horse_number": 4,
+        "weight": 1025,
+        "weight_change": 3,
+        "win_odds": 69.4
+      },
+      {
+        "horse_name": "センショウレディー",
+        "jockey_name": "藤本匠",
+        "gate_number": 8,
+        "horse_number": 8,
+        "weight": 1093,
+        "weight_change": -6,
+        "win_odds": 20.7
+      }
+    ],
+    "results": [
+      {
+        "horse_number": 9,
+        "finish_position": 1
+      },
+      {
+        "horse_number": 6,
+        "finish_position": 2
+      },
+      {
+        "horse_number": 2,
+        "finish_position": 3
+      },
+      {
+        "horse_number": 5,
+        "finish_position": 4
+      },
+      {
+        "horse_number": 1,
+        "finish_position": 5
+      },
+      {
+        "horse_number": 7,
+        "finish_position": 6
+      },
+      {
+        "horse_number": 3,
+        "finish_position": 7
+      },
+      {
+        "horse_number": 4,
+        "finish_position": 8
+      },
+      {
+        "horse_number": 8,
+        "finish_position": 9
+      }
+    ],
+    "payouts": [
+      {
+        "bet_type": "単勝",
+        "combination": [
+          9
+        ],
+        "payout": 390
+      },
+      {
+        "bet_type": "複勝",
+        "combination": [
+          9
+        ],
+        "payout": 140
+      },
+      {
+        "bet_type": "複勝",
+        "combination": [
+          6
+        ],
+        "payout": 580
+      },
+      {
+        "bet_type": "複勝",
+        "combination": [
+          2
+        ],
+        "payout": 170
+      },
+      {
+        "bet_type": "馬連",
+        "combination": [
+          6,
+          9
+        ],
+        "payout": 5880
+      },
+      {
+        "bet_type": "ワイド",
+        "combination": [
+          6,
+          9
+        ],
+        "payout": 940
+      },
+      {
+        "bet_type": "ワイド",
+        "combination": [
+          2,
+          9
+        ],
+        "payout": 440
+      },
+      {
+        "bet_type": "ワイド",
+        "combination": [
+          2,
+          6
+        ],
+        "payout": 2490
+      },
+      {
+        "bet_type": "馬単",
+        "combination": [
+          9,
+          6
+        ],
+        "payout": 10200
+      },
+      {
+        "bet_type": "三連複",
+        "combination": [
+          2,
+          6,
+          9
+        ],
+        "payout": 10610
+      },
+      {
+        "bet_type": "三連単",
+        "combination": [
+          9,
+          6,
+          2
+        ],
+        "payout": 90530
+      }
+    ]
+  }
+]

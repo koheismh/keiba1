@@ -35,8 +35,8 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # リクエスト間のスリープ（秒）- サーバーに迷惑をかけないため
-MIN_SLEEP = 1.0
-MAX_SLEEP = 1.5
+MIN_SLEEP = 2.0
+MAX_SLEEP = 3.0
 
 # netkeiba.comの場所コード
 VENUE_CODES = {
