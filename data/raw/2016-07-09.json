@@ -19123,5 +19123,212 @@
         "payout": 6660
       }
     ]
+  },
+  {
+    "race_id": "201635070908",
+    "race_name": "オッズパーク杯3歳B(3歳B2)",
+    "race_date": "2016-07-09",
+    "post_time": "15:55",
+    "venue": "不明",
+    "course_type": "ダート",
+    "distance": 1400,
+    "track_condition": "稍重",
+    "weather": "曇",
+    "entries": [
+      {
+        "horse_name": "エルメスショコラ",
+        "jockey_name": "南郷家全",
+        "gate_number": 8,
+        "horse_number": 8,
+        "weight": 424,
+        "weight_change": 3,
+        "win_odds": 1.6
+      },
+      {
+        "horse_name": "ウインアイフォース",
+        "jockey_name": "高橋悠里",
+        "gate_number": 4,
+        "horse_number": 4,
+        "weight": 431,
+        "weight_change": -11,
+        "win_odds": 3.1
+      },
+      {
+        "horse_name": "ボルジアクイーン",
+        "jockey_name": "山本聡哉",
+        "gate_number": 3,
+        "horse_number": 3,
+        "weight": 413,
+        "weight_change": 3,
+        "win_odds": 9.5
+      },
+      {
+        "horse_name": "コウギョウドライヴ",
+        "jockey_name": "陶文峰",
+        "gate_number": 1,
+        "horse_number": 1,
+        "weight": 447,
+        "weight_change": -5,
+        "win_odds": 13.7
+      },
+      {
+        "horse_name": "ジェベルベイリー",
+        "jockey_name": "村上忍",
+        "gate_number": 2,
+        "horse_number": 2,
+        "weight": 416,
+        "weight_change": 0,
+        "win_odds": 26.5
+      },
+      {
+        "horse_name": "ダイアナジョシ",
+        "jockey_name": "木村直輝",
+        "gate_number": 5,
+        "horse_number": 5,
+        "weight": 406,
+        "weight_change": 1,
+        "win_odds": 52.3
+      },
+      {
+        "horse_name": "ピンクサンダー",
+        "jockey_name": "鈴木祐",
+        "gate_number": 6,
+        "horse_number": 6,
+        "weight": 409,
+        "weight_change": -4,
+        "win_odds": 26.5
+      },
+      {
+        "horse_name": "キタノクロヒメ",
+        "jockey_name": "斉藤雄一",
+        "gate_number": 7,
+        "horse_number": 7,
+        "weight": 424,
+        "weight_change": 22,
+        "win_odds": 23.6
+      }
+    ],
+    "results": [
+      {
+        "horse_number": 8,
+        "finish_position": 1
+      },
+      {
+        "horse_number": 4,
+        "finish_position": 2
+      },
+      {
+        "horse_number": 3,
+        "finish_position": 3
+      },
+      {
+        "horse_number": 1,
+        "finish_position": 4
+      },
+      {
+        "horse_number": 2,
+        "finish_position": 5
+      },
+      {
+        "horse_number": 5,
+        "finish_position": 6
+      },
+      {
+        "horse_number": 6,
+        "finish_position": 7
+      },
+      {
+        "horse_number": 7,
+        "finish_position": 8
+      }
+    ],
+    "payouts": [
+      {
+        "bet_type": "単勝",
+        "combination": [
+          8
+        ],
+        "payout": 160
+      },
+      {
+        "bet_type": "複勝",
+        "combination": [
+          8
+        ],
+        "payout": 100
+      },
+      {
+        "bet_type": "複勝",
+        "combination": [
+          4
+        ],
+        "payout": 110
+      },
+      {
+        "bet_type": "複勝",
+        "combination": [
+          3
+        ],
+        "payout": 160
+      },
+      {
+        "bet_type": "馬連",
+        "combination": [
+          4,
+          8
+        ],
+        "payout": 150
+      },
+      {
+        "bet_type": "ワイド",
+        "combination": [
+          4,
+          8
+        ],
+        "payout": 100
+      },
+      {
+        "bet_type": "ワイド",
+        "combination": [
+          3,
+          8
+        ],
+        "payout": 160
+      },
+      {
+        "bet_type": "ワイド",
+        "combination": [
+          3,
+          4
+        ],
+        "payout": 210
+      },
+      {
+        "bet_type": "馬単",
+        "combination": [
+          8,
+          4
+        ],
+        "payout": 260
+      },
+      {
+        "bet_type": "三連複",
+        "combination": [
+          3,
+          4,
+          8
+        ],
+        "payout": 250
+      },
+      {
+        "bet_type": "三連単",
+        "combination": [
+          8,
+          4,
+          3
+        ],
+        "payout": 540
+      }
+    ]
   }
 ]
